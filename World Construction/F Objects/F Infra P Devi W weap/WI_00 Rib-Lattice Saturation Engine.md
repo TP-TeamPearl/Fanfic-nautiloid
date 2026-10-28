@@ -1,0 +1,7 @@
+# WI_00 Rib-Lattice Saturation Engine
+The Rib-Lattice Saturation Engine (also called "machine Gun") is a biomechanic weapon mounted into the balcony. Its outer structure resembles a calcified ribcage containing multiple projectile channels. The weapon uses replaceable ribbed ammunition pods inserted into feeding slots along its base. Thralls are responsible for loading the pods.
+
+When activated, the internal membranes contract and generate pressure before releasing a concentrated volley of barbed projectiles. The weapon fires a broad cluster rather than a single projectile and is intended for area suppression rather than precision attacks.
+
+The discharge also produces a powerful psionic and electromagnetic disturbance. Against other vessels, the effect can interfere with communication, sensors, power regulation, and mechanically or magically controlled systems. Severe exposure may cause temporary loss of power, forced shutdowns, or system resets, potentially producing secondary mechanical failures.
+The weapon's main power and control systems are connected to the vessel through concealed infrastructure beneath the balcony. A dedicated control connection leads to the command room [[L_76B Psionic Artillery Hub|L_76B]], allowing an illithid operator to activate and direct the weapon remotely.

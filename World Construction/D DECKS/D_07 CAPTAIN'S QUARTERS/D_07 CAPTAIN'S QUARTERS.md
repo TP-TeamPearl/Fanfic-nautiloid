@@ -1,0 +1,6 @@
+![[D_07 grid.jpg|690]]![[D_07 3D.jpg|270]]
+[[L_79A Captain's Rest room]]
+[[L_79B Deposit Room]]
+[[L_80A CH_00 Private Quarters]] 
+[[L_80B Ch_00 Rest Room]]
+[[L_81 CI_01's Rest Room]]

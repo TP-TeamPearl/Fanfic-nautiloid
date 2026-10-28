@@ -1,0 +1,9 @@
+# PI_09 Analysis Seat
+Mounted high along the wall near the ceiling is an illithid analysis seat, designed for direct cognitive operation—as with the Substrate Spectrometer in [[L_61 Bioculture Chamber|L_61]]. The structure resembles a narrow crescent of dark metal and polished chitin fixed to a vertical rail. When occupied, the seat rotates inward until the user faces the wall, aligning their cranial nerves with a row of thin metallic plates embedded along the backrest.
+
+These plates slowly shift and slide across the surface of the seat, sensing warmth and subtle electrical impulses from the occupant's body. Once contact stabilizes, the system establishes a faint magnetic alignment with the user's neural rhythms, allowing the illithid to operate nearby equipment through almost thought alone.
+
+The seat also dampens external disturbances. A localized sensory field suppresses most audible vibration and mechanical noise from the surrounding deck, isolating the user from the clatter of thralls hauling cargo and the constant movement across the bridge. Telepathic signals, vessel alerts, and psionic transmissions remain unaffected.
+
+## Substrate Spectrometer: 
+When connected, the seat links directly to the [[L_61 Bioculture Chamber# PI_08 Substrate Spectrometer|Substrate Spectrometer]], sharing surfaces residual impressions from past analyses stored in the spectrometer's lattice. These manifest as fleeting cognitive afterimages—patterns, reactions, or partial conclusions—hovering momentarily at the edge of the operator's awareness before fading. More importantly, it allows the illithid to  modify testing parameters without physical manipulation.

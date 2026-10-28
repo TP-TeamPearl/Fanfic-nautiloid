@@ -1,0 +1,3 @@
+A simple recording device connected to the machine it monitors. It identifies users through their psionic seal when one is present, or otherwise through the psionic signature conveyed during interaction. It records each operation along with the associated user and basic machine data.
+
+- Clocquartz Log in [[L_57 Secretariat|L_57]]: A dedicated archival node attached to the Clocquartz records each [[TI_03 Psionic seals# TI_03 Psionic seals|seal]] imprinted through the machine, together with subsequent manual calibrations and changes to assigned parameters.

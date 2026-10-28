@@ -1,0 +1,1 @@
+In [[L_75 The Helm|L_75]], device designed to powered down non-essential machinery while still maintaining vital functions to their minimal. Reduce the vessel's energy signature, making it less detectable to outdoor psionically sensitive beings.
