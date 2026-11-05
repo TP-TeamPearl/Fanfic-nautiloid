@@ -14,7 +14,7 @@ Pending: A few locations share a device name, which can be somewhat confusing. S
 
 - **Security:** The access system is probably developed enough to be explored from a narrative perspective, but it lacks the precision and complexity required of a proper system in an interactive environment, where it needs to be functional and practical. Several points need to be discussed.
 - Position of [[TI_03 Psionic seals]] and sensors
-- Practical design for [Gas spreader](<Weapons# WH_00 Gas spreader>) 
+- Practical design for [Gas spreader](<Weapons.md# WH_00 Gas spreader>) 
 
 # Improve: characters
 

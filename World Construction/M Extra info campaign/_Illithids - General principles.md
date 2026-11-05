@@ -48,7 +48,7 @@ Illithids process multiple outcomes at once; disruption occurs only when multipl
 
 ![[Lore Gortash#^illithid-cognition]]
 
-![[A3xx.xx Assimilation#^illithid-cog0]]
+![[A3.175 Assimilation#^illithid-cog0]]
 
 ![[Interview-BG3 8#^computational1]]
 # Language: Adapting to Humanity

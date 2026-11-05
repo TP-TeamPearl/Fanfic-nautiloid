@@ -12,7 +12,7 @@ A separate rail runs between the two pilot seats, carrying a compact control uni
 - Psionic Engine Regulation (to++ can you remember what it was?)
 - [[L_75 The Helm# SPELLJAMMING HELM|Spelljamming Helm]]
 - [[PH_00 Docility Headset]] ([[CH_00]] refuses to use it.)
-- Control panel ([[World Construction/F Objects/F Infra P Devi W weap/Weapons# WI_03 Psionic Jammers|Psionic Jammers]], [[# L_75 The Helm# Nautiloid Attacks|Nautiloid Attacks]], [Main Panel](<L_75 The Helm# Main Panel>))
+- [Control panel](<L_75 The Helm# Control Panel>) ([Psionic Jammers](<Weapons - nautiloid# WI_03 Psionic Jammers>), [[# L_75 The Helm# Nautiloid Attacks|Nautiloid Attacks]], [Main Panel](<L_75 The Helm# Main Panel>))
 - 3 [[PI_07 Scry Screen|Scry Screen]]
 ![[L_75.jpg|417]]![[L_75 openWall.jpg|222]]
 [Ref1](<https://www.artstation.com/artwork/dOde6Q>)
@@ -27,7 +27,6 @@ While attuned to a spelljamming helm and sitting in it, you gain the following a
 > [!NOTE] DISABLED from lore:
 > •  At any time, you can see and hear what's happening on and around the vessel as though you were standing in a location of your choice aboard it.
 
-
 FEATURES: CHECK!
 Identify: hull integrity.
 
@@ -39,10 +38,16 @@ Identify: hull integrity.
 **Teleport.** The operator can use the nautiloid's psionic systems to teleport a creature directly into the vessel's default intake chamber at [[L_07 Intake Chamber|L_07]], or, with a manual override, directly into a birthing pod in [[L_06 Nursery|L_06]].
 ^Teleport
 # Main Panel
-A biomechanical control panel responds to psionic touch, featuring an array of buttons and complex levers. One of the levers controls the evacuation of waste from the [Sanitary Receptacle Unit ](<D_00 Sanitary Receptacle Unit>).
+A biomechanical control panel responds to psionic touch, featuring an array of buttons and complex levers. 
+
+- One of the levers controls the evacuation of waste from the [Sanitary Receptacle Unit ](<D_00 Sanitary Receptacle Unit>).
+- Buttons control different [[Nautiloid - Modes|Modes]] of navigation
 
 # ASTRAL SEA NAVIGATION
 - Source: Spelljammer Adventures in Space
 Maps are unnecessary for navigating the Astral Sea. Creatures there possess an innate sense of direction that allows them to reach a destination simply by focusing on it mentally. Once they do, they perceive the most direct path to any location within the Astral Sea or Wildspace, such as a githyanki outpost, Hestavar, or Realmspace.
 
 This awareness provides direction, not information about the journey. It does not indicate the route's safety, distance, or hazards; those factors are determined by the DM.
+
+# Control Panel
+

@@ -1,0 +1,398 @@
+.gitignore
+STORY/Characters - Death.md
+STORY/SEC/S_001.md
+STORY/SEC/S_002.md
+STORY/SEC/S_003.md
+STORY/SEC/S_004.md
+STORY/SEC/S_005.md
+STORY/SEC/S_012.md
+STORY/SEC/S_023.md
+STORY/SEC/S_024.md
+STORY/SEC/S_026.md
+STORY/SEC/S_027.md
+STORY/SEC/S_034.md
+STORY/SEC/S_038.md
+STORY/SEC/S_044.md
+STORY/SEC/S_046.md
+STORY/SEC/S_048.md
+STORY/SEC/S_049.md
+STORY/SEC/S_053.md
+STORY/S_065.md
+STORY/S_073.md
+STORY/S_074.md
+STORY/S_076.md
+STORY/S_077.md
+STORY/S_078.md
+STORY/Social/Nautiloid - hunting.md
+STORY/Social/S_006.md
+STORY/Social/S_008.md
+STORY/Social/S_018.md
+STORY/Social/S_020.md
+STORY/Social/S_021.md
+STORY/Social/S_025.md
+STORY/Social/S_028.md
+STORY/Social/S_029.md
+STORY/Social/S_030.md
+STORY/Social/S_032.md
+STORY/Social/S_033.md
+STORY/Social/S_035.md
+STORY/Social/S_036.md
+STORY/Social/S_037.md
+STORY/Social/S_041.md
+STORY/Social/S_043.md
+STORY/Social/S_064.md
+STORY/Z Writing/START HERE.md
+STORY/Z Writing/WRITING - model.md
+STORY/background/Microcosm.md
+STORY/background/S_00.md
+STORY/background/S_042.md
+STORY/shenanigans/Empy Plot Canon/S_014.md
+STORY/shenanigans/Empy Plot Canon/S_015.md
+STORY/shenanigans/Empy Plot Canon/S_045.md
+STORY/shenanigans/Empy Plot Canon/S_050.md
+STORY/shenanigans/Empy Plot Canon/S_051.md
+STORY/shenanigans/Empy Plot Canon/S_054.md
+STORY/shenanigans/Empy Plot Canon/S_055.md
+STORY/shenanigans/Empy Plot Canon/S_056.md
+STORY/shenanigans/Empy Plot Canon/S_057.md
+STORY/shenanigans/Empy Plot Canon/S_058.md
+STORY/shenanigans/Empy Plot Canon/S_059.md
+STORY/shenanigans/Empy Plot Canon/S_060.md
+STORY/shenanigans/Empy Plot Canon/S_061.md
+STORY/shenanigans/Empy Plot Canon/S_062.md
+STORY/shenanigans/Empy Plot Canon/S_063.md
+STORY/shenanigans/S_007.md
+STORY/shenanigans/S_009.md
+STORY/shenanigans/S_010.md
+STORY/shenanigans/S_011.md
+STORY/shenanigans/S_013.md
+STORY/shenanigans/S_016.md
+STORY/shenanigans/S_017.md
+STORY/shenanigans/S_019.md
+STORY/shenanigans/S_022.md
+STORY/shenanigans/S_031.md
+STORY/shenanigans/S_039.md
+STORY/shenanigans/S_040.md
+STORY/shenanigans/S_047.md
+STORY/shenanigans/S_052.md
+STORY/shenanigans/S_075.md
+World Construction/C Characters/CH_00.md
+World Construction/C Characters/CH_01.md
+World Construction/C Characters/CH_02.md
+World Construction/C Characters/CH_03.md
+World Construction/C Characters/CH_04.md
+World Construction/C Characters/CH_05.md
+World Construction/C Characters/CH_06.md
+World Construction/C Characters/CH_07.md
+World Construction/C Characters/CH_08.md
+World Construction/C Characters/CI_00.md
+World Construction/C Characters/CI_01.md
+World Construction/C Characters/CI_02.md
+World Construction/C Characters/CI_03.md
+World Construction/C Characters/CI_04.md
+World Construction/C Characters/CI_05.md
+World Construction/C Characters/CI_06.md
+World Construction/D DECKS/Access.md
+World Construction/D DECKS/D_00 Sanitary Receptacle Unit.md
+World Construction/D DECKS/D_01 Prison Deck/D_01 PRISON DECK.md
+World Construction/D DECKS/D_01 Prison Deck/L_01 Water reservoirs Deposit.md
+World Construction/D DECKS/D_01 Prison Deck/L_02 Prison.md
+World Construction/D DECKS/D_01 Prison Deck/L_03 Prisoners Showers.md
+World Construction/D DECKS/D_01 Prison Deck/L_04 Unused Room.md
+World Construction/D DECKS/D_01 Prison Deck/L_05 Kitchen (crew).md
+World Construction/D DECKS/D_01 Prison Deck/L_06 Nursery.md
+World Construction/D DECKS/D_01 Prison Deck/L_07 Intake Chamber.md
+World Construction/D DECKS/D_01 Prison Deck/L_08A Resonance Stone Corner.md
+World Construction/D DECKS/D_01 Prison Deck/L_08B Psionic Corner.md
+World Construction/D DECKS/D_01 Prison Deck/L_09 Circular Chamber.md
+World Construction/D DECKS/D_01 Prison Deck/L_10 Auxiliary Infirmary.md
+World Construction/D DECKS/D_01 Prison Deck/L_11 Unidentified Rooms.md
+World Construction/D DECKS/D_01 Prison Deck/L_12 Psionic Drain cabins.md
+World Construction/D DECKS/D_01 Prison Deck/L_13 Temple of Ilsensine.md
+World Construction/D DECKS/D_01 Prison Deck/L_14 L15 Unused rooms.md
+World Construction/D DECKS/D_01 Prison Deck/L_16 Transformation Chamber.md
+World Construction/D DECKS/D_01 Prison Deck/L_17 Pools.md
+World Construction/D DECKS/D_01 Prison Deck/L_18A Thrall Overseer's Office.md
+World Construction/D DECKS/D_01 Prison Deck/L_18B CI_04 Rest room.md
+World Construction/D DECKS/D_01 Prison Deck/L_18C CI_04 Private Pool.md
+World Construction/D DECKS/D_02 Cargo Deck/D_02 CARGO DECK.md
+World Construction/D DECKS/D_02 Cargo Deck/L_19 Unidentified Illithid Workstation.md
+World Construction/D DECKS/D_02 Cargo Deck/L_21 Storage Room.md
+World Construction/D DECKS/D_02 Cargo Deck/L_22A Thrall Common Room.md
+World Construction/D DECKS/D_02 Cargo Deck/L_22B Former Dormitory.md
+World Construction/D DECKS/D_02 Cargo Deck/L_22C Thrall Sanitary.md
+World Construction/D DECKS/D_02 Cargo Deck/L_22D Thrall Sleeping Platform.md
+World Construction/D DECKS/D_02 Cargo Deck/L_23A Illithid Kitchen.md
+World Construction/D DECKS/D_02 Cargo Deck/L_23B Freezer.md
+World Construction/D DECKS/D_02 Cargo Deck/L_24A The Deposit.md
+World Construction/D DECKS/D_02 Cargo Deck/L_24B The Corner.md
+World Construction/D DECKS/D_02 Cargo Deck/L_25 Arcane Transporter.md
+World Construction/D DECKS/D_02 Cargo Deck/L_26A Engines Room (Lower).md
+World Construction/D DECKS/D_02 Cargo Deck/L_26B Unused Room.md
+World Construction/D DECKS/D_03 LABORATORY DECK/D_03 LABORATORY DECK.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_26D Engines Room.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_27 The Garden.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_28 Training Center.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_29 Human Crew Sanitary.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_30 The Hotel.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_31 Unused Room.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_32A The infirmary.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_32B Interrogation Room.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_33A Aqua-Lab.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_33B Sealed Room.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_34 Engineering Office.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_35 Unused Rooms.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_36 Unused Rooms.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_37A Old Deposit.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_37B Old Deposit.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_38 Light Room.md
+World Construction/D DECKS/D_03 LABORATORY DECK/L_39 Intellects devourers Park.md
+World Construction/D DECKS/D_04 BRIDGE DECK/D_04 BRIDGE DECK.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_40 Balcony.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_41 SECURITY Room.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_42 Black Hall.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_43 Auxiliary Deposit.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_44 Unused Compartment.md
+"World Construction/D DECKS/D_04 BRIDGE DECK/L_45 CH_07 & CH_06\342\200\231s room.md"
+World Construction/D DECKS/D_04 BRIDGE DECK/L_46 CH_02 Restroom.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_47 Fresh Corridor.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_48 Alien Garden.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_49 Green Corridor.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_50 Communication Office.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_51 Elder Brain Transceiver Room.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_52 High Garden.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_53 Garden Pools.md
+World Construction/D DECKS/D_04 BRIDGE DECK/L_54 Bio-technical Workshop.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/D_05 OBSERVATION DECK.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/L_55 and L_56 Vacant Workshop.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/L_57 Secretariat.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/L_58A Iron Passage.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/L_58B The Fountain.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/L_59 Unresolved Growth.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/L_60 Second Lift.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/L_61 Bioculture Chamber.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/L_62 Craft Corner.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/L_63 Unused Room.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/L_64 Mind-Archive Room.md
+World Construction/D DECKS/D_05 OBSERVATION DECK/L_65 Necrotic Lab.md
+World Construction/D DECKS/D_06 COMMAND DECK/D_06 COMMAND DECK.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_66 Eating corner (Illithid).md
+World Construction/D DECKS/D_06 COMMAND DECK/L_67 Unknown Connected Space.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_68A Unconnected Space.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_68B Rest Room.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_69 Strategic Cartography Chamber.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_70 Sanitary.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_71 Private water closet for CH_00.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_72 Unused Corner.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_73A & L-73B.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_74 Restoration.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_75 The Helm.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_76A Transponder.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_76B Psionic Artillery Hub.md
+World Construction/D DECKS/D_06 COMMAND DECK/L_77 Captain's Corner.md
+World Construction/D DECKS/D_07 CAPTAIN'S QUARTERS/D_07 CAPTAIN'S QUARTERS.md
+World Construction/D DECKS/D_07 CAPTAIN'S QUARTERS/L_79A Captain's Rest room.md
+World Construction/D DECKS/D_07 CAPTAIN'S QUARTERS/L_79B Deposit Room.md
+World Construction/D DECKS/D_07 CAPTAIN'S QUARTERS/L_80A CH_00 Private Quarters.md
+World Construction/D DECKS/D_07 CAPTAIN'S QUARTERS/L_80B Ch_00 Rest Room.md
+World Construction/D DECKS/D_07 CAPTAIN'S QUARTERS/L_81 CI_01's Rest Room.md
+World Construction/D DECKS/D_08 REST DECK/D_08 REST DECK.md
+World Construction/D DECKS/D_08 REST DECK/L_82 CI_03's Rest Room.md
+World Construction/D DECKS/The Nautiloid.md
+World Construction/F Objects/F Infra P Devi W weap/FH_01 Light generator.md
+World Construction/F Objects/F Infra P Devi W weap/FI_04 Archival Substrate Array.md
+World Construction/F Objects/F Infra P Devi W weap/PH_00 Docility Headset.md
+World Construction/F Objects/F Infra P Devi W weap/PI_00 Psionic Engine Regulation.md
+World Construction/F Objects/F Infra P Devi W weap/PI_03 Logger.md
+World Construction/F Objects/F Infra P Devi W weap/PI_05 Psionic Siphon.md
+World Construction/F Objects/F Infra P Devi W weap/PI_06 Birthing Pod.md
+World Construction/F Objects/F Infra P Devi W weap/PI_07 Scry Screen.md
+World Construction/F Objects/F Infra P Devi W weap/PI_09 Analysis Seat.md
+World Construction/F Objects/F Infra P Devi W weap/PI_18 Scrying eye.md
+World Construction/F Objects/F Infra P Devi W weap/PI_19 Memory Repository.md
+World Construction/F Objects/F Infra P Devi W weap/PI_20 Psionic Artillery Hub.md
+World Construction/F Objects/F Infra P Devi W weap/SINK.md
+World Construction/F Objects/F Infra P Devi W weap/TI_03 Psionic seals.md
+World Construction/F Objects/F Infra P Devi W weap/WI_00 Rib-Lattice Saturation Engine.md
+World Construction/F Objects/F Infra P Devi W weap/Weapons.md
+World Construction/F Objects/O Items T Tools/Bed.md
+World Construction/F Objects/O Items T Tools/Illithid_equipment.md
+World Construction/F Objects/O Items T Tools/Items.md
+World Construction/F Objects/O Items T Tools/OI_08 Brain Jar.md
+World Construction/F Objects/O Items T Tools/Qualith.md
+World Construction/F Objects/O Items T Tools/TOOLS.md
+World Construction/F Objects/S spells/SPELLS.md
+World Construction/M Extra info campaign/Illithids - General principles.md
+World Construction/M Extra info campaign/NPCs & origins/CH_09 Gortash.md
+World Construction/M Extra info campaign/NPCs & origins/CH_10 Araj Oblodra.md
+World Construction/M Extra info campaign/NPCs & origins/CH_11 Balthazar.md
+World Construction/M Extra info campaign/NPCs & origins/CH_12 GROUPthralls.md
+World Construction/M Extra info campaign/NPCs & origins/CH_13 Myrnath.md
+World Construction/M Extra info campaign/NPCs & origins/Emperor - Synthesis.md
+World Construction/M Extra info campaign/NPCs & origins/Illithids - General principles.md
+World Construction/M Extra info campaign/NPCs & origins/Origins Characters.md
+World Construction/M Extra info campaign/PHASE 0 - The Colony.md
+World Construction/M Extra info campaign/Planning.md
+World Construction/M Extra info campaign/Protocols.md
+World Construction/M Extra info campaign/Ranks.md
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/AH_01.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/AH_02.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/AI_00.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/AI_01.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/AI_02.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/AI_03.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/CH_saccult.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_01 3D.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_01 grid.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_02 3D.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_02 3D2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_02 grid.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_02 grid2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_03 3D.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_03 grid.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_04 3D.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_04 grid.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_05 3D.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_05 grid.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_06 3D.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_06 grid.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_07 3D.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_07 grid.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_08 3D 1.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_08 3D.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/D_08 grid.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/FI_08.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_01.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_02.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_03.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_05.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_06.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_07.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_08A.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_08B.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_09.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_10.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_11.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_12.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_13.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_14 15.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_17.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_18A.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_18B.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_18C.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_19.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_21.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_22A.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_22B.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_22C.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_22D.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_23A.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_24A.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_24B.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_25 1.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_25 2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_26D 1.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_26D 2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_27.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_28.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_29.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_30 1.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_30 2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_32A.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_32B 1.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_32B 2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_33A.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_34.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_37A.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_37B.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_39.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_40.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_41 1.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_41 2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_41 3.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_42.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_43.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_44.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_45.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_46.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_47.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_48.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_50 1.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_50 2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_50 3.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_51.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_52.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_53.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_54.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_57.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_58A.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_61.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_62.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_64.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_65.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_66.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_68 1.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_68 2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_69.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_71.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_73 1.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_73 2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_75 openWall.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_75.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_76B.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_77.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_79A.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_80A.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_81.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_82 1.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/L_82 2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/PH_01.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/PH_03.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/PI_01 Clocquartz.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/PI_10 1.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/PI_10 2.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/PI_15.jpg
+World Construction/M Extra info campaign/W PICS/PICS/Y PICS Decks/PI_17.jpg
+World Construction/M Extra info campaign/Y BG3 CANON Lore/Gond.md
+World Construction/M Extra info campaign/Y BG3 CANON Lore/Lore Gortash.md
+World Construction/M Extra info campaign/Y BG3 CANON Lore/More Books.md
+World Construction/M Extra info campaign/Y JOBS/Job_CH_00.md
+World Construction/M Extra info campaign/Y JOBS/Job_CH_01.md
+World Construction/M Extra info campaign/Y JOBS/Job_CH_02.md
+World Construction/M Extra info campaign/Y JOBS/Job_CH_03.md
+World Construction/M Extra info campaign/Y JOBS/Job_CH_04.md
+World Construction/M Extra info campaign/Y JOBS/Job_CH_05.md
+World Construction/M Extra info campaign/Y JOBS/Job_CH_06.md
+World Construction/M Extra info campaign/Y JOBS/Job_CH_07.md
+World Construction/M Extra info campaign/Y JOBS/Job_CH_08.md
+World Construction/M Extra info campaign/Y JOBS/Job_CI_00.md
+World Construction/M Extra info campaign/Y JOBS/Job_CI_01.md
+World Construction/M Extra info campaign/Y JOBS/Job_CI_02.md
+World Construction/M Extra info campaign/Y JOBS/Job_CI_03.md
+World Construction/M Extra info campaign/Y JOBS/Job_CI_04.md
+World Construction/M Extra info campaign/Y JOBS/Job_CI_05.md
+World Construction/M Extra info campaign/Y JOBS/Job_CI_06.md
+World Construction/M Extra info campaign/Y JOBS/Z inspi/CI_02-bg3.jpg
+World Construction/M Extra info campaign/Y JOBS/Z inspi/baniteofficer.jpg
+World Construction/M Extra info campaign/Y JOBS/Z inspi/ch_02-inspi.jpg
+World Construction/M Extra info campaign/Y JOBS/Z inspi/ch_03-inspi.jpg
+World Construction/M Extra info campaign/Y JOBS/Z inspi/ci_01-inspi.jpg
+World Construction/M Extra info campaign/Y JOBS/Z inspi/ci_04-inspi.jpg
+World Construction/M Extra info campaign/Y JOBS/Z inspi/ci_05-inspi.jpg
+World Construction/M Extra info campaign/_Broader timeline.md
+World Construction/M Extra info campaign/_Illithids - General principles.md
+Z_PROJECT/Collab/Argue here/Index - Discussions.md
+Z_PROJECT/Collab/Argue here/Not integrated.md
+Z_PROJECT/Collab/Argue here/Rejected.md
+Z_PROJECT/Collab/Before contributing.md
+Z_PROJECT/Collab/Instruction.md
+Z_PROJECT/Collab/Suggestions.md
+Z_PROJECT/LICENSE.md
+Z_PROJECT/Z Template/Character Sheet.md
+Z_PROJECT/Z Template/Interview Sheet.md
+Z_PROJECT/Z Template/Location.md
+_INDEX/Index Lore.md
+_INDEX/Index Ojb.md
+_INDEX/JOBS.md
+_INDEX/_INDEX of ALL_.md
+_INDEX/_Index events.md

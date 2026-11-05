@@ -1,7 +1,6 @@
 ---
 Source: " BG3"
 ---
-
 # Memoir Notes with Recent Addenda
 - Location: Wyrm's Rock Fortress
 
@@ -27,7 +26,6 @@ We three Chosen use the Crown to enslave the Colony's elder brain - but during 
 
 Following my master plan, the new trio brainstorms our grand hoax of the Absolute.
 Note: Where to put in the Astral Prism and the adventurers who took it after its theft from Vlaakith? And when to admit considering taking them as my new allies?
-
 ### Balthazar's Notes
 - Location: Mind Flayer Colony
 (Experimental notes written in Balthazar's precise hand.)
@@ -57,6 +55,9 @@ To Take Control
 We were deep in Mephisto's vault, burgling the Crown of Karsus, when I saw next to the crown that the wily archdevil had a portfolio labelled 'Accelerated Grand Design'. I couldn't resist taking that as well. The portfolio contained plans compiled by a mad alhoon known only as Blue Apex for a version of the illithid resurgence, a Grand Design that called for mass tadpoling of both friends and enemies - but not to convert the tadpoled into mind flayers, but rather to suspend that ceremorphosis under powerful magic to create a vast and unconscious hive mind commanded by an enhanced elder brain. My mind, trained in the tyrannical tenets of Bane, instantly saw that this was a means to perpetrate a powerful religious hoax, a mass movement controlled, ultimately, by none other than myself. For who but the Chosen of Bane could master so grand a scheme?
 ^steal-crown
 ## Rune Slate
+
+Holding this tablet causes a flash of inscrutable images to appear before the eyes before vanishing, leaving a mild headache in their place.
+
 - Location: Moonrise Colony
 A series of dots and broken lines - entries in a language you cannot read. And yet, you sense their meaning nonetheless…
 A final, mournful entry, carrying with it a vast hollow feeling of grief.
@@ -72,8 +73,9 @@ Three shining lights that taste of pain.
 ^elder-story1
 ## Rune Slate
 - Location: Nautiloid
+
 A series of dots and broken lines - entries in a language you cannot read. And yet, you sense their meaning nonetheless…*
-Lore Gortash
+
 *An anomaly. One like ourselves, unconnected from the whole. Caution.* ^caution
 # Suspended Ceremorphosis
 Dictated to Scribe Yanthus by Enver Gortash

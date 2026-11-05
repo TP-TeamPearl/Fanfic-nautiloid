@@ -1,3 +1,5 @@
+- Bound to: [[Protocols - CRISIS]]
+
 → The key is to make the protocols rigorous within its intended scope, rather than comprehensive against every conceivable exploit, for our characters to have room and play around.
 
 # Mission Priorities
@@ -123,31 +125,15 @@ Also: too weak to pull under control arriving mind flayers, but enough to mainta
 ![[Companions - Minthara#^absoldag]]
 
 
-
-
 -> someone steal an arm from a dead subject, tatoo it with rank 1, then hide it
 -> it's psionic so if you don't want it detected, then you have to hide it where there's already high concentration of psionic flesh tissues
 # Schedule  - Protocol
 Schedules are deliberately staggered. Although the vessel travels through relatively secure corridors, it remains on alert. [[L_57 Secretariat# PI_01Clocquartz|Clocquartz]] crew allocation therefore ensures that at least one qualified crew member is awake and ready to respond at all times.
-## Crisis - Schedule Protocol
 
-The schedule is subordinate to vessel status.
-
-During a crisis:
-- Rest and free-time periods may be suspended.
-- Personnel may be retained at their posts or reassigned.
-- Required duties take priority over the planned cycle.
-
-Once the immediate danger has passed, the previous schedule is **not automatically resumed**. The captain and pilot determine when the next cycle begins, with **their condition taking priority**. Other personnel are then shifted, delayed, or given additional rest as necessary to re-establish the watch rotation.
 ## Record Everything - Protocol
 All discoveries, modifications, translations, experimental results, and unresolved observations are to be recorded in the operator's most accessible language and on the fittest support before the next remote meeting.
 
 > [!NOTE] Title
 > - CHECK! how qualith is treated by Gortash? Received and translated how much time before the meeting?
-## Vocal Proxy  - Crisis Protocol
-A fallback communication protocol using a designated thrall as the illithid's audible voice. Normally unnecessary if the vessel is equipped with a functional Voice Box Module ([[L_50 Communication Office# PI_13 Psionic Transmitter|PI_13 Psionic Transmitter]]).
-- Bound to: [[L_50 Communication Office|L_50]]
-
 ## Workers protection
 Although the Chosen ensure their subordinates to be protected from the colony's hostility, every worker knows that operating in the depth of Moonrise is a risk. If something goes wrong, the illithids could expose and strip away every fragment of their memory and reshape their self. 
-

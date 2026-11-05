@@ -45,7 +45,7 @@ CHECK! Maybe these doors could remain opened by default until Phase_3? ([[S_046]
 - **Crisis**. A physical locking mechanism provides a secondary security layer and can be engaged during elevated security phases, disabling psionic access and requiring a physical key. 
   
   *Physical keys are prepared before departure (Phase_0) and stored in [[L_41 SECURITY Room|L_41]]. Each door has a unique key, with one complete keyring issued to each illithid aboard. + R1 to R3 Human crew!*
-[[World Construction/F Objects/F Infra P Devi W weap/Weapons# WI_03 Psionic Jammers|Jammers]] activated -> iron doors close and physical keys become necessary.
+[[Weapons - nautiloid# WI_03 Psionic Jammers|Jammers]] activated -> iron doors close and physical keys become necessary.
 A low, abrupt tone precedes the door's closure, followed by several heavy internal clacks as the iron bolts engage.
 Enemy Boarding: the sealed sections become containment zones. Intruders can be isolated and potentially exposed to gas before confronted.
 # AH_03 PRISON DOOR

@@ -11,7 +11,6 @@ Many curious scholars have noted the illithids' disdain for arcane magic, yet do
 # SI_00B Psionic Disruptor Fields
 - Type: Debuff, AoE.
 Barriers that disrupt psionic energy, rendering telepathic communication or psychic abilities ineffective within their vicinity.
-^# SI_00B Psionic Disruptor Fields
 
 # SI_01 Taste Link
 - Bound to [[L_66 Eating corner (Illithid)|L_66 Eating corner]]

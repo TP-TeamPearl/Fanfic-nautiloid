@@ -22,9 +22,10 @@ The vessel itself is in a state of constant evolution. Unused chambers are gradu
 The nautiloid cannot communicate thoughts or images—it can only convey states. This communication resembles bodily sensation more than language: imbalance, pressure, congestion, tension, … 
 
 These sensations can be differentiated through intensity, pulse, or shifts in perceived tone—something analogous to colours without actual visual information. 
-When deprived of a connection to its pilots, particularly during a crisis, the vessel can make crude decisions of its own, almost entirely concerned with self-preservation. It may activate defences, operate weapons in a rudimentary fashion or deviates from its trajectory.
 
-The vessel does not see its surroundings but it has a crude spatial awareness through changes in gravity, pressure, motion, and the relative position of sufficiently perceptible objects. This allows it to perform simple autonomous corrections, such as lowering or gaining altitude, stabilising itself, swooping down on an isolated sentient-prey, or avoiding an immediately perceived obstruction.
+The vessel does not see its surroundings but it has a crude spatial awareness through changes in gravity, pressure, motion, and the relative position of sufficiently perceptible objects. This allows it to perform simple autonomous corrections, such as lowering or gaining altitude, stabilising itself or avoiding an immediately perceived obstruction. However, it cannot reliably distinguish between an immediately interesting stimulus and an operationally relevant one.
+
+The vessel is a living organism whose sensory priorities do not naturally coincide with those of its occupants. It possesses an instinctive tendency to investigate its surroundings with its tendrils rather than remain strictly focused on its established trajectory. This behaviour can accumulate minor deviations, cause unnecessary exposure to potential threats, and, most importantly, waste time.
 # History of This Nautiloid
 
 Many of the technologies accumulated aboard this particular vessel have already been bridged, deciphered, and readjusted over its service life. The ship appears to have been maintained primarily by illithids specialised in warfare and ballistics rather than artisans or arcane researchers. This may explain why several older arcane systems were preserved and adapted instead of being dismantled and replaced with cleaner and more sophisticated psionic devices.

@@ -51,41 +51,41 @@ Grid shows the chronological order of the scenes, with each row representing a g
 |                 |                                             |                                         |                                                   |                                       |     |
 # PHASE_1
 
-|         | [[S_012\|S_12A]] 🟧<br>[[CI_01]] error calc                     | [[S_019]] ways                                   | [[S_023]] Seals<br>[[CI_02\|Cx_02]], [[CI_03\|Cx_03]] | [[S_030\|S_30B]]<br>Kitchen |     |
-| ------- | --------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------- | --------------------------- | --- |
-|         | [[S_017\|S_017A]] Steal seed<br>[[CH_07\|CH_07]]                | [[S_018]] Corner<br>[[CH_02]], [[CH_04]]         | [[S_043]] training<br>[[CI_04]], [[CH_02]]            |                             |     |
-|         |                                                                 |                                                  | [[S_035\|S_035A]] psionic<br>[[CH_04]]                |                             |     |
-|         | [[S_021]] Exp Water<br>[[CH_07\|CH_07]]                         | [[S_020]] Corner<br>[[CI_04]]                    | [[S_024]] 1st bridge<br>[[CI_02]], [[CI_03]]          |                             |     |
-| Meeting |                                                                 |                                                  |                                                       |                             |     |
-|         | [[S_009\|S_09B]] Crate<br>[[CH_08]], [[CH_09 Gortash\|Gortash]] | [[S_034]] Office<br>[[CH_04]]                    |                                                       |                             |     |
-|         | [[S_028\|S_028A]] extract<br>[[CI_04]]                          | [[S_025\|S_025A]] Pools<br>[[CH_02]], [[CH_04]]  | [[S_029]] Hair<br>[[CI_04]], CH_0x                    |                             |     |
-|         |                                                                 |                                                  |                                                       |                             |     |
-| Meeting |                                                                 |                                                  |                                                       |                             |     |
-|         | [[S_040\|S_040A]]<br>[[CH_03]] request                          | [[S_025\|S_025B]] Caught<br>[[CH_02]], [[CH_04]] |                                                       |                             |     |
-|         |                                                                 | [[S_025\|S_025C]] Report<br>[[CI_04]], [[CH_00]] |                                                       |                             |     |
-|         | [[S_026\|S_026B]] Escape<br>[[CI_04]]                           | [[S_033\|S_033A]] Mainte<br>[[CH_06]]            |                                                       |                             |     |
-| PILLAR  | [[S_026\|S_026C]] pillar activ.<br>[[CI_04]], [[CH_00]]🟨       |                                                  |                                                       |                             |     |
-|         | [[S_039]] docile<br>[[CH_08]]                                   |                                                  |                                                       |                             |     |
-|         | [[S_039# S_39B\|S_039B]] Rest<br>[[CH_08]]                      | [[S_030\|S_30C]]<br>Kitchen                      |                                                       |                             |     |
-|         | [[S_027]] flesh blade<br>[[CI_04]], [[CI_05]]                   |                                                  |                                                       |                             |     |
-|         |                                                                 |                                                  |                                                       |                             |     |
-|         | [[S_032\|S_032A]] Abductions<br>[[CH_07]], [[CI_00]]            | [[S_013\|S_013B]] Pixie<br>[[CH_02]] Discov      |                                                       |                             |     |
+|         | [[S_080]] Intro<br>[[CI_01]], [[CI_02]]                         | [[S_019]] ways                                   | [[S_023]] Seals<br>[[CI_02\|Cx_02]], [[CI_03\|Cx_03]] | [[S_030\|S_30B]]<br>Kitchen                 |     |
+| ------- | --------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------- | --- |
+|         | [[S_017\|S_017A]] Steal seed<br>[[CH_07\|CH_07]]                | [[S_018]] Corner<br>[[CH_02]], [[CH_04]]         | [[S_043]] training<br>[[CI_04]], [[CH_02]]            | [[S_012\|S_12A]] 🟧<br>[[CI_01]] error calc |     |
+|         |                                                                 |                                                  | [[S_035\|S_035A]] psionic<br>[[CH_04]]                |                                             |     |
+|         | [[S_021]] Exp Water<br>[[CH_07\|CH_07]]                         | [[S_020]] Corner<br>[[CI_04]]                    | [[S_024]] 1st bridge<br>[[CI_02]], [[CI_03]]          |                                             |     |
+| Meeting |                                                                 |                                                  |                                                       |                                             |     |
+|         | [[S_009\|S_09B]] Crate<br>[[CH_08]], [[CH_09 Gortash\|Gortash]] | [[S_034]] Office<br>[[CH_04]]                    |                                                       |                                             |     |
+|         | [[S_028\|S_028A]] extract<br>[[CI_04]]                          | [[S_025\|S_025A]] Pools<br>[[CH_02]], [[CH_04]]  | [[S_029]] Hair<br>[[CI_04]], CH_0x                    |                                             |     |
+|         |                                                                 |                                                  |                                                       |                                             |     |
+| Meeting |                                                                 |                                                  |                                                       |                                             |     |
+|         | [[S_040\|S_040A]]<br>[[CH_03]] request                          | [[S_025\|S_025B]] Caught<br>[[CH_02]], [[CH_04]] |                                                       |                                             |     |
+|         | [[S_079# S_079A\|S_079A]]<br>Chairs                             | [[S_025\|S_025C]] Report<br>[[CI_04]], [[CH_00]] |                                                       |                                             |     |
+|         | [[S_026\|S_026B]] Escape<br>[[CI_04]]                           | [[S_033\|S_033A]] Mainte<br>[[CH_06]]            |                                                       |                                             |     |
+| PILLAR  | [[S_026\|S_026C]] pillar activ.<br>[[CI_04]], [[CH_00]]🟨       |                                                  |                                                       |                                             |     |
+|         | [[S_039]] docile<br>[[CH_08]]                                   |                                                  |                                                       |                                             |     |
+|         | [[S_039# S_39B\|S_039B]] Rest<br>[[CH_08]]                      | [[S_030\|S_30C]]<br>Kitchen                      |                                                       |                                             |     |
+|         | [[S_027]] flesh blade<br>[[CI_04]], [[CI_05]]                   |                                                  |                                                       |                                             |     |
+|         |                                                                 |                                                  |                                                       |                                             |     |
+|         | [[S_032\|S_032A]] Abductions<br>[[CH_07]], [[CI_00]]            | [[S_013\|S_013B]] Pixie<br>[[CH_02]] Discov      |                                                       |                                             |     |
 # PHASE_2
 Security improvements: preparations before Gith
 
-|     | [[S_017\|S_017B]] GOO<br>[[CH_07]]                   | [[S_033\|S_033B]] Exp<br>[[CH_06]], [[CI_05]]      | [[S_038]] Spells<br>[[CH_02]]           |     |     |
-| --- | ---------------------------------------------------- | -------------------------------------------------- | --------------------------------------- | --- | --- |
-|     | [[S_031]] Sabotage<br>[[CI_05]] Lights               | [[S_035]] Spells<br>[[CH_04]]                      | [[S_074]] Prison<br>[[CI_04]] [[CI_02]] |     |     |
-|     | [[S_032\|S_032B]] Exp necro<br>[[CI_05]]             | [[S_022\|S_22B]] Emo<br>[[CI_01]] 🟧<br>           | [[S_044\|S_044B]] Logs<br>[[CI_02]]     |     |     |
-|     | [[S_041]] TasteLink                                  | [[S_032\|S_032C]] Surgery<br>[[CI_05]], [[CH_06]]  |                                         |     |     |
-|     | [[S_064]] Ankle<br>[[CH_03]]                         | [[S_049]] Blade<br>[[CI_05]], [[CI_04]], [[CH_06]] |                                         |     |     |
-|     | [[S_075\|S_075A]] Coded lang<br>[[CI_00]] [[CH_08]]  |                                                    |                                         |     |     |
-|     |                                                      |                                                    |                                         |     |     |
-|     |                                                      |                                                    |                                         |     |     |
-|     |                                                      |                                                    |                                         |     |     |
-|     | [[S_010\|S_010A]]<br>[[CH_00]] Tadpoled              |                                                    |                                         |     |     |
-|     |                                                      |                                                    |                                         |     |     |
-|     |                                                      |                                                    |                                         |     |     |
+|     | [[S_017\|S_017B]] GOO<br>[[CH_07]]                  | [[S_033\|S_033B]] Exp<br>[[CH_06]], [[CI_05]]      | [[S_038]] Spells<br>[[CH_02]]           |     |     |
+| --- | --------------------------------------------------- | -------------------------------------------------- | --------------------------------------- | --- | --- |
+|     | [[S_031]] Sabotage<br>[[CI_05]] Lights              | [[S_035]] Spells<br>[[CH_04]]                      | [[S_074]] Prison<br>[[CI_04]] [[CI_02]] |     |     |
+|     | [[S_032\|S_032B]] Exp necro<br>[[CI_05]]            | [[S_022\|S_22B]] Emo<br>[[CI_01]] 🟧<br>           | [[S_044\|S_044B]] Logs<br>[[CI_02]]     |     |     |
+|     | [[S_041]] TasteLink                                 | [[S_032\|S_032C]] Surgery<br>[[CI_05]], [[CH_06]]  |                                         |     |     |
+|     | [[S_064]] Ankle<br>[[CH_03]]                        | [[S_049]] Blade<br>[[CI_05]], [[CI_04]], [[CH_06]] |                                         |     |     |
+|     | [[S_075\|S_075A]] Coded lang<br>[[CI_00]] [[CH_08]] | [[S_079# S_079B\|S_079B]]<br>Chairs<br>[[CI_05]]   |                                         |     |     |
+|     |                                                     |                                                    |                                         |     |     |
+|     |                                                     |                                                    |                                         |     |     |
+|     |                                                     |                                                    |                                         |     |     |
+|     | [[S_010\|S_010A]]<br>[[CH_00]] Tadpoled             |                                                    |                                         |     |     |
+|     |                                                     |                                                    |                                         |     |     |
+|     |                                                     |                                                    |                                         |     |     |
 # PHASE_3
 *Control decreases as the vessel shifts out of plane.*
 
@@ -94,6 +94,7 @@ Security improvements: preparations before Gith
 |                                                           | [[S_016]] mind control<br>[[CI_05]], [[CH_02]] pet          | [[S_036]] Fishing 🟩<br>[[CH_03]], [[CH_06]]                |                                                   |
 |                                                           | [[S_010\|S_010B]]<br>[[CH_00]] can pilot                    | [[S_028\|S_028B]] Brain Jar<br>xxxx                         |                                                   |
 |                                                           | [[S_035\|S_035B]] Collapse<br>[[CH_04]]                     |                                                             |                                                   |
+|                                                           |                                                             |                                                             |                                                   |
 | PRISM LOCATED                                             | [[S_054]]                                                   |                                                             |                                                   |
 |                                                           |                                                             |                                                             |                                                   |
 | Meeting                                                   |                                                             |                                                             |                                                   |
@@ -108,6 +109,7 @@ Security improvements: preparations before Gith
 |                                                           | [[S_051]] Mind read<br>[[CI_00]]                            |                                                             |                                                   |
 |                                                           | [[S_059]] Shart tadpole<br>[[CI_00]]                        | [[S_047\|S_047A]] Poison                                    |                                                   |
 |                                                           | [[S_075# S_075C\|S_075C]] Coded lang<br>[[CI_00]] [[CH_08]] |                                                             |                                                   |
+|                                                           | [[S_079# S_079C\|S_079C]] Chairs                            |                                                             |                                                   |
 | GITH CHASE                                                | [[S_065]] Gith Chase                                        |                                                             |                                                   |
 |                                                           |                                                             |                                                             |                                                   |
 | Meeting (Aborted)                                         | [[S_014]] Sup <br>[[CI_00]] tadpole                         |                                                             |                                                   |
@@ -119,7 +121,6 @@ Security improvements: preparations before Gith
 | PLANE SHIFT I                                             | [[S_066]]  Escape Gith                                      |                                                             |                                                   |
 | (back to material plane)                                  | [[S_057]] Abduct As Ga                                      |                                                             |                                                   |
 |                                                           | [[S_067]] Tadpoled<br>Lae'zel & Player                      | [[S_012\|S_012B]] 🟧<br>[[CI_01]] ship redirect             |                                                   |
-|                                                           |                                                             |                                                             |                                                   |
 |                                                           |                                                             |                                                             |                                                   |
 |                                                           |                                                             |                                                             |                                                   |
 |                                                           |                                                             | [[S_011]] DEATH <br>[[CH_00]]                               |                                                   |
