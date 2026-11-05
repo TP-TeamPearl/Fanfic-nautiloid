@@ -1,19 +1,25 @@
-Project Nautiloid — Baldur's Gate 3
+⚠️ SPOILER WARNING — BALDUR'S GATE 3
+Please don't browse this repository if you haven't finished the game yet.
 
-A horror fan fiction set aboard the Emperor's nautiloid, developing events from its departure through the crash that marks the beginning of the canonical Baldur's Gate 3 campaign.
+An **18+ collaborative horror fanfiction project** set aboard the Emperor's nautiloid.
 
-This project is designed to be opened and worked on in Obsidian. The repository is used to share and synchronize the work between contributors.
+- Designed to be opened and edited in Obsidian. (The notes are Markdown files.)
+- Just contribute; all inputs are welcome.
+- Fork it when you want.
+## What is this project?
 
-What can I do? Where do I start? What do I need to know?
+Fanfic-nautiloid is an adult-oriented horror fanfiction project following events aboard the Emperor's nautiloid, from its departure through the crash that marks the beginning of the _Baldur's Gate 3_ campaign.
+In this version, the vessel serves as a mobile test bed for Gortash's prototype machinery and a support ship for the wider flotilla tasked with retrieving the Astral Prism. Operating under Gortash's remote orders, it carries a mixed crew of illithids and independent humanoid personnel.
 
-You do not need to understand the whole project. Just contribute; all inputs are welcome.
+The project combines a central narrative developed by a core team with a shared environment in which other writers can create characters, explore relationships, develop side stories, and add events of their own.
+## What can I write or contribute?
 
-If you're just dropping in, create a page, write your idea, and push it to the repository through your branch. You do not need to wait for the main writers before contributing or building on existing material.
+If you're just dropping in, create a page, write your idea, and push it to the repository through your branch. You do not need to wait for the main writers before contributing or building on existing material. Writing Quickest entry point is by creating your own character → [[START HERE]]
 
-Writing Quickest entry point is by creating your own character → [HERE]
-
-You can add files to write scenes, expand an existing character, develop the environment, or simply contribute an idea. You do not need to take responsibility for an entire character or plotline.
-
-Take what you need Reuse whatever fits your own story: the project is built to be reusable. You can fork it at any time to develop your own fic or campaign using the material already here.
+Take what you need. Reuse whatever fits your own story: the project is built to be reusable. You can fork it at any time to develop your own fic or campaign using the material already here.
 
 (Details in [[Before contributing]] and [[Instruction]])
+
+! A note on mature content and platform rules !
+Be careful: all material uploaded to this repository must comply with GitHub's applicable terms and content policies. 
+→ We are still determining how to handle "mature" material unsuitable for publication. 
