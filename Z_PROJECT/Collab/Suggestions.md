@@ -16,6 +16,20 @@ Pending: A few locations share a device name, which can be somewhat confusing. S
 - Position of [[TI_03 Psionic seals]] and sensors
 - Practical design for [Gas spreader](<Weapons.md# WH_00 Gas spreader>) 
 
+## Equivalent Submarine roles
+
+
+| Function                       | Submarine equivalent              | Nautiloid             |
+| ------------------------------ | --------------------------------- | --------------------- |
+| Command authority              | Commanding Officer                | Human captain         |
+| Watch command / conn           | Officer of the Deck               | Real illithid pilot |
+| Navigation and reachability    | Navigator                         | CI_00                 |
+| Detection and interpretation   | Sonar / sensor operators          | CI_01                 |
+| Security and threat assessment | Tactical watch / warfare team     | CI_02                 |
+| Mission-specific selection     | Mission or intelligence authority | CI_04                 |
+| Subject requirements           | Intelligence / mission planning   | CI_05                 |
+
+
 # Improve: characters
 
 - The main writers should have the final say on their characters' appearance, names, and abilities. Suggestions are more than welcome, but changes are unlikely to be approved without their consent.
