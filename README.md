@@ -1,6 +1,8 @@
 # READ ME
-⚠️ SPOILER WARNING — BALDUR'S GATE 3
-Please don't browse this repository if you haven't finished the game yet.
+
+![[TITLE-bandNautiloidProject.png|543]]
+ SPOILER WARNING — BALDUR'S GATE 3
+*Don't browse this repository if you haven't finished the game yet.*
 
 An **18+ collaborative horror fanfiction project** set aboard the Emperor's nautiloid.
 
@@ -19,8 +21,8 @@ If you're just dropping in, create a page, write your idea, and push it to the r
 
 Take what you need. Reuse whatever fits your own story: the project is built to be reusable. You can fork it at any time to develop your own fic or campaign using the material already here.
 
-(Details in [[Z LOCAL/GithubPull/Review-Latest/Z_PROJECT/Collab/Before contributing]] and [[Z LOCAL/GithubPull/Review-Latest/Z_PROJECT/Collab/Instruction]])
+(Details in [[Instruction]])
 
-!!! A note on mature content and platform rules !!!
-Be careful: all material uploaded to this repository must comply with GitHub's applicable terms and content policies. 
+! A note on mature content and platform rules !
+All material uploaded to this repository must comply with GitHub's applicable terms and content policies. 
 → We are still determining how to handle "mature" material unsuitable for publication. 

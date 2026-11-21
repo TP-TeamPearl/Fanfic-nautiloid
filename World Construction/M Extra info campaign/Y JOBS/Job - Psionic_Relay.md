@@ -1,3 +1,5 @@
+
+- Suggested: [Nerik Phlogiston's map](https://nerik.orpheusweb.co.uk/files/Spelljammer/Flow_map_01-12-12.pdf)
 # Role Aboard the Nautiloid
 
 [[CI_01]] serves as a **psionic relay and communications specialist**, acting as a bridge between the nautiloid crew and Gortash's Black Hand organization.

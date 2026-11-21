@@ -74,7 +74,7 @@ Cannot think "defy the Chosen", but can create conditions where others act usefu
 
 - The important distinction for illithids is between accepting the reality of human authority and accepting its legitimacy. 
 
-Here’s one possible system that could work, though feel free to reject it and develop a different one. I think it becomes particularly important in Phase 3, but we should establish the rules before doing any extensive writing. URGE!
+Here's one possible system that could work, though feel free to reject it and develop a different one. I think it becomes particularly important in Phase 3, but we should establish the rules before doing any extensive writing. URGE!
 
 | Signal strength | Behaviour toward humans <br>depending on their distance from the Elder Brain.                                                                                                                                                                               |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

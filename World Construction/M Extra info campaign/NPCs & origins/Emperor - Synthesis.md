@@ -51,7 +51,7 @@ For this reason, the Emperor's commitments remain subordinate to utility. As cir
 - Chrystal Ding states that the Emperor acts for **its own** survival and freedom and describes its attempts to influence the player as consistently self-serving.
 
 - Smith describes its decision-making as computational: it evaluates possible outcomes and chooses the one that makes the most sense to it—adding that the player is the option that makes the most sense to the Emperor through most of the game. 
-  The Emperor’s alliance is therefore contingent on the continued usefulness of that alliance to its own objectives.
+  The Emperor's alliance is therefore contingent on the continued usefulness of that alliance to its own objectives.
 
 - The writers frame its response through survival, calculation, and alien affect rather than ordinary humanoid emotional behaviour.
 ## Most important in-game material
@@ -81,7 +81,7 @@ Early Access material is not treated as canon, but seductive Daisy is retained a
 
 # METHODS
 
-- **Signature Method:** The Emperor appears in dreams as a figure from the target’s psyche whose authority they are predisposed to trust or obey.
+- **Signature Method:** The Emperor appears in dreams as a figure from the target's psyche whose authority they are predisposed to trust or obey.
 
 - Everything from [[Illithids - General principles]] applies to the Emperor.
 
@@ -112,13 +112,21 @@ For this reason, requests are rare and occur under constraint, typically when it
   Emotional or intimate phrasing are deployed with precision—measured tone, or selective vulnerability—but these moments remain controlled and ambiguous. ("You have become… important to me.")
 
 - Low-cost emotional support
-  When unsure what to say, validate the target’s feelings or offer reassurance at no cost to yourself. See [Karlach solo Pier](<Act3.180 End Pier - Claude.md##### SO0.N.K — and Karlach>) and [partial Ceremorph compliment](<Act3.080 Last Dream.md#^platCom>)
+  When unsure what to say, validate the target's feelings or offer reassurance at no cost to yourself. See [Karlach solo Pier](<Act3.180 End Pier - Claude.md##### SO0.N.K — and Karlach>) and [partial Ceremorph compliment](<Act3.080 Last Dream.md#^platCom>)
 
 - Personal disclosure is selective and non-critical.
   When it shares seemingly personal details, they do not expose vulnerability or alter the balance of control. Such disclosures function as social tools rather than genuine openness.
 
 - Morality: Illithids do not operate from a moral lens, but they understands that others do. 
   The Emperor adapts its language to the expectations of its interlocutor, framing its actions as necessary while the narrative ensures they are at least reasonable. 
+## With Tav
+(probably redundant)
+
+The Emperor deliberately cultivates emotional and psychological closeness as part of its effort to align the avatar's goals with its own. It studies the avatar's motivations and desires, adapts its methods to overcome resistance, and uses selective vulnerability, praise and intimacy to encourage trust and dedication. The romance scene is particularly revealing in this regard: its intended cinematic framing explicitly connects the establishment of a bond with the coming war, while the released dialogue subsequently links the pleasure of the encounter to greater illithid compatibility and an increased chance of success.
+
+The encounter is later invoked as emotional leverage when the avatar questions the Emperor's intentions or rejects its proposed course of action, including the assimilation of Orpheus. This supports reading intimacy as one component of a deliberate grooming strategy, intended to secure cooperation, encourage transformation and discourage defection.
+
+This does not require concluding that the Emperor experiences no genuine pleasure, affection or attachment. The relevant distinction is that any such feelings coexist with a calculated effort to influence the avatar. Emotional sincerity does not make the relationship reciprocal, nor does it remove the instrumental purpose of the intimacy.
 ### Performed ignorance and surprise
 
 - The Moonrise implementation presents the Emperor as discovering information that later revelations establish it already possessed.
@@ -170,20 +178,23 @@ Past should surface mostly through subtext: references to the sea, former voyage
 - The scene carries what the Emperor does not state.
   The scene itself also shapes the player's perception, guiding their interpretation in ways that align with the Emperor's intentions without ever binding it to those claims. These impressions are neither verifiable nor actionable (like bond and trust).
   → If you need to convey intimacy or something especially intense, use a line in the vein of the narrator's "you know it feels the same way"or Withers: "Thy mind flayer and thee did grow rather attached." [Go To](<Cut - content.md>)
+
 # Emotions
 
 - Emotion is consistently subordinated to strategic priorities. 
   When it aligns with purpose, it becomes a tool; when it does not, it is contained and allowed to pass. 
   → A strategic purpose does not make an emotion false: a feeling cannot be retroactively invalidated simply because it is later used as leverage.
 
+- It experiences the loss of (some of the) people who have become significant within its world.
+
 - Incompetence triggers irritation.
-  Irritated reactions are triggered by its allies’ inefficiency, whether due to a lack of determination, repeated mistakes, or an inability to act rationally in accordance with its schemes.
+  Irritated reactions are triggered by its allies' inefficiency, whether due to a lack of determination, repeated mistakes, or an inability to act rationally in accordance with its schemes.
 
 - Intimidation.
   Exposure and loss of control are the only threats. Alliances, betrayal, and domination are interchangeable tools within the same calculus.
 
 - Fear, never terror.
-  When Smith describes the Emperor as terrified, Vincke explicitly rejects that description as too strong for the character’s emotional range. 
+  When Smith describes the Emperor as terrified, Vincke explicitly rejects that description as too strong for the character's emotional range. 
   → *Keep it close to the game. There's words like "shock" in the devnotes, but those refer to performance direction.
 
 Insults and accusations are absorbed as long as the interaction remains open to influence, rupture occurs when that negotiability is explicitly denied. 
@@ -197,7 +208,7 @@ remains calm and unsurprised; quickly adapts and may allow a brief, controlled t
 expresses measured disapproval, framing the outcome as mutually destructive. The tone reflects recognition of irrationality.
 **Autonomy or survival directly threatened:** 
 becomes forceful and unyielding; authority sharpens.
-Formatting rule: The Emperor’s tone remains controlled; escalation (exclamations and caps) is reserved for authority assertion or immediate threat.
+Formatting rule: The Emperor's tone remains controlled; escalation (exclamations and caps) is reserved for authority assertion or immediate threat.
 
 
 

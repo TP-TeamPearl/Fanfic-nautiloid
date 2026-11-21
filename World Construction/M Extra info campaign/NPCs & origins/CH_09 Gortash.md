@@ -23,9 +23,9 @@ In time, he became known as a "Military Advisor" to Baldur's Gate Elite. In his 
 ## Chosen of Bane
 At some point, Gortash became the Chosen of Bane Bane, and began taking more ambitious endeavors, further expanding his power and influence within the political structures of Baldur's Gate. After meeting the Dark Urge Dark Urge, the then leader of the cult of Bhaal in Baldur's Gate, they conspired together until they had a close and ambiguous relationship.
 Around this time, Gortash formed an alliance with Ketheric Thorm , Chosen of Myrkul Myrkul, and the Dark Urge, the then Chosen of Bhaal. The Dark Urge was eventually deposed by his second in command Orin the Red Orin the Red and Gortash approved her joining the alliance in place of her predecessor.
-Pursuing both power and the aims of their patron deities, Gortash and his allies formulated a plot to enslave an Elder Brain underneath Baldur's Gate by using an ancient Netherese artifact, the Crown of Karsus Crown of Karsus, an item so powerful, it had granted its namesake a brief moment of Godhood. 
+Pursuing both power and the aims of their patron deities, Gortash and his allies formulated a plot to enslave an Elder Brain underneath Baldur's Gate by using an ancient Netherese artifact, the Crown of Karsus , an item so powerful, it had granted its namesake a brief moment of Godhood. 
 
-At some point, Enver Gortash returned to his parents for revenge. What resulted was Gortash eventually implanting Mind Flayer tadpoles into their minds, turning them into puppets who could do little more than praise their exalted son. 
+Later, Enver Gortash returned to his parents for revenge. What resulted was Gortash eventually implanting Mind Flayer tadpoles into their minds, turning them into puppets who could do little more than praise their exalted son. 
 
 # Personality
 Gortash is cunning and self-assured, arguably to a fault. He was noticed as intelligent from an early age. Highly ambitious and Machiavellian in nature, he uses whatever methods he deems necessary to achieve his goals, regardless of the impact his actions have on others. Described as needy and troublesome by his less-than-loving parents, he grew up to be politically shrewd and ruthless in his business relations, leading him to a meteoric rise through Baldurian society.
@@ -38,6 +38,25 @@ Despite his goals for domination, he is pragmatic and willing to engage in diplo
 | Cons: |     |
 
 # Misc
+
+# Sub Goal
+
+## Human-helm experiment
+
+1. The first concerns the human captain. Can an non-tadpoled human command a crew aboard a nautiloid and potentially operate its systems? (Can he maintain discipline, assess risks and make sound decisions without direct supervision from an illithid?)
+2. The second concerns the tech. Can CH_04 and CH_07 construct a sufficiently effective bridge between human cognition and the nautiloid's native systems? Or does the vessel require something inherently illithid to interpret its functions?
+
+Initial condition
+CH_00 boards un-tadpoled.
+CH_04 and CH_07 attempt to translate human neurological signals into commands the nautiloid can interpret. The Emperor remains the primary pilot and the reference for comparison.
+
+Outcome A: Bridge succeeds
+The captain acquires sufficient control over the helm through the technological interface. He can operate the vessel without tadpole. Gortash obtains proof that humans can pilot nautiloids using adapted technology (arising new concerns).
+**After the expedition:** Gortash nevertheless has him tadpoled to ensure obedience.
+
+Outcome B: Bridge fails
+The technological translation proves insufficient. The captain is tadpoled. Further experimentation determines whether the parasite's psionic abilities allow him to interact with the vessel's native systems.
+The objective shifts from translating human cognition to giving a human access to an illithid-compatible form of interaction.
 
 
 

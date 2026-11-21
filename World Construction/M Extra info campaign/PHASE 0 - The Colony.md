@@ -1,4 +1,4 @@
-# Synopsis — BG Canon
+# Synopsis — BG3 Canon
 
 When Shar's curse starved the colony, the elder brain withdrew into slumber beneath the future Moonrise Towers. Unknown to those above, it endured in dormancy. In time, it subtly reached the Chosen Gortash through dreams and guided him toward placing the Karsus Crown upon it, binding the elder brain beneath the Chosen's will.
 

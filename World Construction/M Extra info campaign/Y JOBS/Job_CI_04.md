@@ -3,9 +3,14 @@
 - CRISIS: deployment and scheduling of [[L_39 Intellects devourers Park|brain devourers]] for reconnaissance and patrol;
 
 # Quartermaster
-Before departure, CI_04 is responsible for making sure the thrall population is viable for the mission, but it likely also (likely?) handles the practical needs of the human crew: clothing, hygiene supplies, food, bedding, tools, replacements, basic personal equipment, medical necessities, and whatever mundane infrastructure prevents a long expedition from becoming dysfunctional.
+Before departure, CI_04 is responsible for making sure the thrall population is viable for the mission, but it also (likely?) handles the practical needs of the human crew: clothing, hygiene supplies, food, bedding, tools, replacements, basic personal equipment, medical necessities, and whatever mundane infrastructure prevents a long expedition from becoming dysfunctional.
 
+## Food
 
+**Humanoids:** CI_04's Food supplies are calculated to cover periods spent outside the Astral Sea and are reserved strictly for survival. 
+*Crew members may bring aboard their own food supplies, subject to approval.*
+
+**Illithids:** Traditional lore describes brains as a source of psychic nourishment for mind flayers, not merely ordinary nutrition. Whether Astral Plane conditions suspend that particular biological requirement is not explicitly established by the general planar rules.
 # Thrall relationship
 Through the Nourisher Creed, [[CI_04]] has the authority to decide **who is worth keeping**. It can recognize an unusual specimen and reserve it rather than allowing another illithid to consume it. It can also set aside exceptional thralls as calculated gifts to illithid associates. 
 

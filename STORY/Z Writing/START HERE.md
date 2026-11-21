@@ -1,7 +1,7 @@
 ***Suggestion:** Pin this page and open links in a new tab.*
 
 # Entry_1: Myrkulyte ([Phase_0](<PHASE 0 - The Colony>))
-*This is the quickest point of entry into the project: create a character who has already worked in Moonrise’s depths. You are a Myrkulyte: not tadpoled, and you know that the Absolute is an elder brain.*
+*This is the quickest point of entry into the project: create a character who has already worked in Moonrise's depths. You are a Myrkulyte: not tadpoled, and you know that the Absolute is an elder brain.*
 
 You have been working in the colony's depths without much oversight for several days. You might even find that agreeable, were it not for the Bhaalists yelling in the adjoining rooms.
 
@@ -13,11 +13,11 @@ You are absorbed in your work when a Banite suddenly approaches.
 The Banite steps closer. She is not openly hostile, but her movements are rigid. She seems distinctly uncomfortable this far below the surface… unless that discomfort comes from your presence. 
 She hands you a folded plan of the vessel.
 
-> Lagda Morel: This indicates your assigned [[L_14 L15 Unused rooms|room]] and [[L_55 and L_56 Vacant Workshop|office]]. You will board as soon as possible. You will receive a psionic tattoo granting your access authorizations and operational assignments.
+> Lagda Morel: This indicates your assigned [[L_14 L15 Unused rooms|room]] and [[L_55 and L_56 Vacant Workshop|office]]. You will board as soon as possible. There, you will receive a psionic tattoo granting your access authorizations and operational assignments.
 > 
-> Your referent is [[CI_02|Sc… Ns'h…]] Another damn illithid. The name is impossible to pronounce. You will find it in [[L_57 Secretariat]], or it will find you once it senses your presence.
+> Your referent is [[CI_02|Sc… Ns'h…]] Another damn illithid. You will find it in [[L_57 Secretariat]], or it will find you once it senses your presence.
 
-*This is basically to define your access areas, most likely restricting you to the rooms and decks you actually need, since your role aboard isn’t considered critical by default (R4). From there, you’ll eventually need to establish your plan, regardless of whether you actually intend to stick to it.*
+*This is basically to define your access areas, most likely restricting you to the rooms and decks you actually need, since your role aboard isn't considered critical by default (R4). From there, you'll eventually need to establish your objectives, regardless of whether you actually intend to stick to it.*
 
 She pauses, then retrieves another document from her satchel.
 

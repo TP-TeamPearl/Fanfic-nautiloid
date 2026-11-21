@@ -20,3 +20,5 @@ Stored energy is allocated according to priority:
 
 With the crew reduced, [[CI_05]] is solely allocated to provide its psionic energy. 
 *The current travel conditions make immediate depletion through defensive systems unlikely, allowing the reservoirs to build to a sufficient level before the vessel reaches more dangerous territory.*
+
+*CI_03 possesses the largest energy reserve among the illithid crew, but its assignment as the reserve pilot saves it from being drained.*

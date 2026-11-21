@@ -8,7 +8,7 @@ The passage is intentionally left without a door, serving as the primary route f
 [[L_42 Black Hall]]
 [[L_43 Auxiliary Deposit]] 
 [[L_44 Unused Compartment]] 
-[[L_45 CH_07 & CH_06’s room]] 
+[[L_45 CH_07 & CH_06's room]] 
 [[L_46 CH_02 Restroom]] 
 [[L_47 Fresh Corridor]] 
 [[L_48 Alien Garden]] 
@@ -21,8 +21,8 @@ The passage is intentionally left without a door, serving as the primary route f
 
 The so-called "Illithid Botanical chambers" are connected areas in [[L_48 Alien Garden|L_48]], [[L_52 High Garden|L_52]], [[L_53 Garden Pools|L_53]], [[L_54 Bio-technical Workshop|L_54]]
 The space encompasses a central open area carpeted in low, dark grass, stone shelving units embedded into the curved hull walls, holding potted flora and sealed aquaria, and shallow decorative pools fed by a narrow cascade that circulates continuously through hidden channels.
-The ceiling remains low and convex, following the hull’s curvature. Light is sparse and filtered.
+The ceiling remains low and convex, following the hull's curvature. Light is sparse and filtered.
 The Communication Office stands adjacent but partially isolated, surrounded by encroaching grass and vertical growths that subtly buffer sound. The effect is one of quiet insulation.
 The air is heavy with moisture and faint vegetal decay—noticeable only to humans.
 
-*Since there is no illithid botanist assigned during this mission, this space defaults to [[CI_01]]’s jurisdiction by proximity*
+*Since there is no illithid botanist assigned during this mission, this space defaults to [[CI_01]]'s jurisdiction by proximity*

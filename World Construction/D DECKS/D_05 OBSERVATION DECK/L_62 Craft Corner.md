@@ -5,7 +5,7 @@ security: AI_02
 # L_62 Craft Corner
 A small work corner is partitioned from the rest of the room by an industrial metal privacy screen. The structure resembles a rigid grid rather than a solid wall, offering only partial concealment while allowing light and movement to pass through.
 
-Behind the screen stands a compact artificer bench dedicated to precision work. The surface is equipped with jeweler’s tools—fine clamps, polishing wheels, engraving needles, and adjustable lenses used for delicate assembly. Small furnaces and grinding stones allow the shaping and setting of gemstones or enchanted components into belts, buckles, shoulder fittings, and other equipment pieces.
+Behind the screen stands a compact artificer bench dedicated to precision work. The surface is equipped with jeweler's tools—fine clamps, polishing wheels, engraving needles, and adjustable lenses used for delicate assembly. Small furnaces and grinding stones allow the shaping and setting of gemstones or enchanted components into belts, buckles, shoulder fittings, and other equipment pieces.
 The station is used primarily for finishing enchanted objects rather than creating them from raw materials. Here magical tools are refined, runic pens adjusted, and scroll cylinders sealed after inscription.
 Despite its modest size, the bench contains everything necessary for careful work requiring steady hands and extreme precision.
 ## Inventory:

@@ -2,6 +2,8 @@
 ! CH_04 is is the human crew member who is the most exposed to psionic. His work puts him near the vessel's organic systems. He routinely opens panels, reaches into walls, follows conduits, handles components that other crew members never touch. 
 And if he is duergar DISCUSS!, there's another plausible vulnerability without ever having to define a supernatural racial weakness: his inherited sensitivities or cultural background may simply make the exposure affect him differently.
 to++ we'd need lore for this.
+
+![[Job_CH_07#^extraRuleHelm]]
 # Role on the Nautiloid
 Primary engineer and human specialist for machinery. Responsible for maintaining, repairing and reverse-engineering human and hybrid systems.
 

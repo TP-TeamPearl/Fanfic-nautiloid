@@ -15,7 +15,7 @@ Practical Guardian Exploration is never purely curiosity.
 - 
 
 
-![[JOBS### Security Coverage|Security Team]]
+![[Security structure### Security Coverage|Security Team]]
 
 # The Nautiloid as Wilderness 
 He treats the nautiloid less like a ship and more like an unexplored ruin / hostile ecosystem. He respects living systems, but does not trust the nautiloid. Its biology feels wrong to him: rooms disappear, flesh consumes old structures, passages change, and its internal rhythms resemble a creature rather than a machine. He gradually treats the vessel like a sick  animal.

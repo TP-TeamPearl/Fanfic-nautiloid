@@ -1,11 +1,28 @@
-## **Pilot Coverage
-Two qualified illithids are supposed to remain assigned to the command room while in transit. One maintains active control of the vessel; the second serves as co-pilot and watch officer. Both may operate the helm during complex manoeuvres. Pilot rotations are arranged around the standard rest and free-time cycles. The reserve pilot normally mans Communications; when called to the command room, the thrall quartermaster temporarily assumes Communications.
-*CI_03 operates as reservist pilot in Rest-time of CI_00. *
-^Pilot-Coverage
 
+## Crisis
 
+### LVL I - Enemies are still outside
 
+[[CI_03]]: Artillery operator
+L_76B hub and remote control of the Rib-Lattice Saturation Engine.
 
+[[CI_04]]: Field command
+It accompanies thralls on the bridge and command ranged offensive from there.
+
+### LVL II - Enemies boarded
+
+[[CI_03]]: useless?
+
+[[CI_02]]: Security and coordination
+Sensors, internal security, remote systems and information relay.
+
+[[CI_04]]: Field command
+Thralls fight in melee, intellect devourers deployment.
+
+[[CH_02]]: Mobile Sentinel
+Fight in melee.
+
+# 
 CHECK! security doors and role are unclear .
 ++The security block should be called in each profile
 MISSING: CI_04 deals with organic, CI_02 is maintenance-machines !!

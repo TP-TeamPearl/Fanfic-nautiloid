@@ -1,5 +1,8 @@
 [[CI_00]] is the main Pilot aboard.
-
+# Pilot Coverage
+Two qualified illithids are supposed to remain assigned to the command room while in transit. One maintains active control of the vessel; the second serves as co-pilot and watch officer. Both may operate the helm during complex manoeuvres. Pilot rotations are arranged around the standard rest and free-time cycles. 
+*[[CI_03]] operates as reservist pilot in Rest-time of CI_00.*
+^Pilot-Coverage
 # Five levels of navigational information
 
 | Level           | Responsible | Primary function                                                                                     |
@@ -28,9 +31,3 @@ The spelljamming helm can autonomously follow a projected trajectory through suf
 → This function should be limited, the vessel possesses only a rudimentary understanding of its surroundings and cannot reliably anticipate the consequences of its own movements over an extended trajectory. Unsupervised corrections may become inefficient, accumulate into larger deviations or prioritise immediate physical responses over the intended route.
 
 The pilot therefore remains actively responsible for navigation, integrating the vessel's sensory feedback with its own cognitive assessment to maintain an efficient trajectory and anticipate necessary adjustments.
-
-
-
-
-
-The vessel can perform elementary autonomous corrections, However, it cannot reliably distinguish between an immediately interesting stimulus and an operationally relevant one. The pilot must therefore do more than interpret the vessel's sensory feedback. It must also regulate its responses, maintaining the intended trajectory and preventing incidental stimuli from diverting its attention.

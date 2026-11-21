@@ -9,7 +9,7 @@ DISCUSS! If open to discussion before enforcing a decision.
 - *Use Google A.I to paraphrase non BG3 lore* before integrating it.
 - Ensure pictures are low quality, they are help to brainstorm, nothing more (at this stage at least).
 - Do not upload anything that is not pictures nor text. If you have specific material to integrate, communicate it first through the teampearl mail.
-# Private & Gith
+# Private & Github
 
 - **Y Special:** For additional folders that may not be relevant to other writers. Ask and get them shared on our [Google Drive](<https://drive.google.com/drive/folders/1x7uWKzWCJRYUCujhAbm5OvvV3GkiDyD9?usp=sharing>).
   

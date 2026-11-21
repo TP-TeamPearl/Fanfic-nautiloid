@@ -3,8 +3,10 @@ security: AI_02
 ---
 ![[D_05 grid.jpg|179]]![[D_05 3D.jpg|213]]
 # L_57 Secretariat
+- Bound to [[CI_02]]
+
 A secluded chamber protected by a persistent psionic veil. The interior retains entirely illithid furnishings and equipment. The room serves as the vessel's administrative and imprinting station, where crew schedules, ranks, and authorized access are encoded into psionic seals before departure or following reassignment.
-The room is normally attended by illithid personnel responsible for security and psionic craftsmanship. Human crew members enter only when required for imprinting, calibration, or other authorized procedures.
+The room is normally attended by illithid personnel responsible for SEC. Human crew members enter only when required for imprinting, calibration, or other authorized procedures.
 ## Inventory:
 - [[L_57 Secretariat# PI_01 Clocquartz|Clocquartz]] (watch, access)
 - [[L_57 Secretariat# PI_04 Psionic Circuitry Printer|Psionic Circuitry Printer]] (security, access)
@@ -25,9 +27,9 @@ Each crew member bears a psionic seal calibrated to the vessel's schedule and au
 - Source: The Illithiad; A Darkness Gathering
 … an illithid captor brands a small tattoo on its captive's left forearm, raising a significant welt for easy tentacle identification; this mark denotes the captive's future service to a preselected Creed or individual illithid.
 … its slime-covered body possesses faintly glowing tattoos; these are the psionic seals which allowed Shuluth to maintain contact with its dominated agents in the previous four chapters.
-^## Seal on skin
 
 # PI_04 Psionic Circuitry Printer
+
 A precision illithid device used to imprint prepared psionic circuitry onto objects or living creatures.
 
 The primary imprinting instrument is a movable, articulated applicator resembling an elongated tattoo stylus. Its head contains several independently adjustable contact elements, allowing the device to maintain precise contact with irregular surfaces and difficult-to-reach areas. Multiple fine rollers or movable points can reposition themselves during operation, following the programmed geometry of the seal rather than relying on the target presenting a flat surface.

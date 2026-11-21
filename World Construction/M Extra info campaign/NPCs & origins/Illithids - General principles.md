@@ -24,15 +24,15 @@ Illithids should not be impressed by human engineering simply because it is clev
 
 - Illithids do not inherently share humanoid shame around nudity, bodily exposure, or physical vulnerability; their reactions should not human social conventions.
 
-Illithid colonies treat humanoid bodies as resources, and the remains of the dead become part of the colony’s environment. Against this background, nudity alone is unlikely to carry the social or moral significance it does for humans, particularly when the exposed individual belongs to an inferior species. Cleanliness and "good physical condition" distinguish the crew from the colony’s thralls.
+Illithid colonies treat humanoid bodies as resources, and the remains of the dead become part of the colony's environment. Against this background, nudity alone is unlikely to carry the social or moral significance it does for humans, particularly when the exposed individual belongs to an inferior species. Cleanliness and "good physical condition" distinguish the crew from the colony's thralls.
 
-[[CI_00]] : Do not portray the Emperor as shy about nudity or bodily exposure, but do not have it casually impose the colony’s treatment of thralls onto CH_ it seeks to influence emotionally.
+[[CI_00]] : Do not portray the Emperor as shy about nudity or bodily exposure, but do not have it casually impose the colony's treatment of thralls onto CH_ it seeks to influence emotionally.
 # Efficiency and risk minimisation
 
 - Illithids tend to consistently favors the method that achieves their objective with the highest efficiency and the lowest risk of backlash.
 
 [[CI_00]] : To prevent it from committing actions that would be interpreted as "evil", you'll have to introduce constraints for it to resort softer means to reach its goal, proceeds on unknown information or reasonable course of actions even if ruthless. 
-→ *Take the shift from E.A: in the release, Daisy cannot enter the heroes' mind anymore  to unlock their tadpole’s powers directly, and must therefore rely on persuasion to encourage them to do so themselves.*
+→ *Take the shift from E.A: in the release, Daisy cannot enter the heroes' mind anymore  to unlock their tadpole's powers directly, and must therefore rely on persuasion to encourage them to do so themselves.*
 # Knowledge is power
 
 - Illithids tend to maintain control by preserving asymmetry. 

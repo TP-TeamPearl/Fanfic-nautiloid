@@ -23,6 +23,7 @@ His work focuses increasingly on the brain itself:
 - whether neural activity can be redirected, suppressed, or temporarily repurposed as processing capacity;
 - how to reduce the translation layer between human cognition and native nautiloid systems.
 
+Human technicians (CH_04, CH_07) will not make modifications to the Helm's illithid panels-side without the current's pilot agreement. If they wish to disconnect a board, alter a conduit or activate an arcanic component, they have to request permission. The pilot determines when the vessel can safely accommodate their experiments. ^extraRuleHelm
 ## Medical Officer
 [[CH_07]] serves as the nautiloid's human medical officer because the human complement requires a designated physician. His background is broad enough to handle routine medicine, trauma, diagnostics, emergency treatment, and general surgical care, although he is not a specialist in every field.
 His actual expertise lies in **neurobiology, experimental medicine and human–illithid interface research**. Medical duty therefore occupies only part of his role.

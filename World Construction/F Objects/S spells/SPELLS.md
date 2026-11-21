@@ -28,4 +28,12 @@ However, some illithidsâ€”most likely members of the Abysmal Creed ([[CI_05]])â€
 
 **Teleport.** Melee Spell Attack: one creature. Hit: The target must succeed on a DC 15 Constitution saving throw or be teleported to an unoccupied space aboard the nautiloid that the nautiloid's spelljammer can see.
 
-# 
+# Psionic Mastery
+
+### Fluids
+CI_05's mastery lies in exceptionally fine control over continuous physical systems. It can manipulate fluids at a distance, controlling droplets, streams, pressure gradients and internal circulation with surgical precision. 
+
+At the limits of its ability, it can establish a closed spherical psionic boundary around an explosion, containing its expanding gases, heat and fragmentation within a confined volume. The energy is not destroyed: it remains trapped, exerting pressure against the boundary, which may visibly ripple and deform. 
+*However, maintaining containment requires concentration, and sufficiently powerful detonations should overwhelm it.*
+### Lights
+CI_05 can distort the path of light by manipulating the refractive properties of a medium, producing genuine optical distortions rather than mental illusions.

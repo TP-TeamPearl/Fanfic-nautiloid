@@ -154,33 +154,6 @@ To be seen is to be known, and to be known by Her is most perfect. One must rid 
 - Location: Iron Throne
 (This journal was penned by Grand Duke Ravengard after his illithid infection. Early entries thrill in the wonder of the Absolute's voice, praising the truth of Her message and the resplendent future for whish Baldur's Gate is destined. The most recent entries, recorded after Ravengard was brought to the Iron Throne, reflect a different mind: one fighting for the release from the Absolute's grip.)
 Absolute, my goddess, how you fill me with the joy and peace of believing, how I abound in your glNO NO DAMNED VOICE SHAKE IT OFF SHAKE ITory. I was bound by lies, but in you did I seeHELLS STOP ITthe error of m…
-
-# Illithid bg3
-
-## Minthara illithid
-Minthara: When I first visited Moonrise, I stood before the Absolute in awe. It was more of an idea than an entity. Pure love. Total power. 
-It was not love. It was *poison*. The tadpole… the Absolute… they work together like a drug. I did not feel I was compelled to act against my will, I felt ecstatic to serve. Every action seemed a deliberate choice - the best choice - even though I could no more have resisted its commands than flesh can resist decay. Even rational minds like mine cannot reject such a powerful influence. The Absolute can make the impossible seem inevitable. The elder brain is the only thing that has ever managed to change my mind.
-^absollove
-
-Minthara: I was the Absolute's dagger. I remember every throat that it held me to, and every drop of blood it forced me to spill. I take no responsibility for the lives I took. I did nothing in the Absolute's name - I was merely a weapon that it wielded. You have been protected from the worst of the Absolute's influence. Understanding what was done to me is beyond you. 
-^absolserv
-## Minthara capture
-Minthara: A true soul came to my city preaching a message of togetherness, accompanied by two novices.  Menzoberranzen is not fertile ground for such messages. I killed them, and hanged their bodies in my garden. I was not content with the warning though. I intended to wage war on their insolent god, and the rest of its followers. Even as the flesh sagged and sloughed away from their eyeless skulls, their audacity infuriated me. I had to know where they came from. And whoever sent them was counting on my curiosity overcoming my caution.
-Player: Do you know who sent them?  
-Minthara: Indeed. A man you know all too well - General Ketheric Thorm. All it took was a simple act of necromancy, and the corpses told me where I needed to strike - Moonrise Towers. But he had the upper hand when we first met. I was arrogant enough to believe I had the better of him. As it turned out, to my shame, I was defeated without even drawing my weapon. I came to Moonrise with a retinue of warriors and assassins - the best House Baenre had to offer.
-I expected a battle, but found a fully-laden feast table, and a welcome befitting a house matron. Ketheric expected us - expected _me_ - and I fell for his flattery. 
-
-Ketheric proposed an alliance between Moonrise and Menzoberranzan. I admit, I was captivated by him. He invited me to the head of his table, as his guest of honour. I was wary, of course. If I had been in his position, the food would have been poisoned. It was not the food I should have been wary of. It was the pale woman at the foot of the table - Orin the Red. We had barely begun to eat when she spoke for the first time. I only caught one word - my name. Then, quick as lightning, she climbed onto the table, a dagger in each hand, and skipped toward me, slicing the throats out of my men as she passed them.  
-Few things frighten me. Orin is one of them. Ketheric held me still. His hand on my shoulder, the grip tight enough to crack the bone. When Orin stood before me, she touched the dagger to my eye, drawing out a tear of blood.
-_I want this one_, she said.
-Ketheric nodded his permission, and I was taken below. 
-
-You've seen the horrors of the colony. Orin kept me there for days. She forced me to watch as my men were processed; some for food, others as thralls. 
-^colonyprocthralls
-
-And then she placed the tadpole in my eye herself. I was too trusting. I deserved what happened to me, for my passivity, for my weakness. For my pride.  You know the rest as well as I do. There were massacres before the Grove - religious communities, mostly. Those who refused to convert. 
-^mintrecrut
-
 # Manipulations and Motivations: Sacrifice
 - Location: Iron Throne
 How far might one individual go to save another? Where is the threshold of sacrifice? We separated twelve offspring of various species from their parents and established them in adjacent cells. The offspring were subjected to steadily increasing levels of physical and psychological torment. The parents were told that by pulling a lever, the torment would cease, but would result in their own deaths. All twelve pulled the lever, with test case five lasting the longest - he died around midday.
@@ -247,7 +220,6 @@ The weak point must surely be the sharing of the Netherstones - it was necessar
 
 Gortash fears that, energised by the dark energies of the Crown, the brain we now call the Absolute will eventually metamorphose into something new and more difficult to control. If he's right, the need to invest the power of the Netherstones in a single wielder is urgent. Even more so in that Enver Gortash, at least, must be thinking the same way.
 ^enhanced-elderbrain0
-
 # Accelerated Grand Design
 - Location: Ketheric's Room
 General -
@@ -260,7 +232,6 @@ Find the artefact. Employ rigorous means. Do not fail.
 ## Note from Gortash (Moonrise Towers)
 Note from Gortash is a note from Gortash to Ketheric Thorm warning about the unobtained artifact. 
 K - Just a note to say that I was alarmed to learn that your strike teams have not yet recovered the artefact. The githyanki appear to be after it as well! I'll have more to say about this when time allows, but it's essential that your troops do not allow that object to slip between their fingers. - G 
-
 
 ## Journal of Enver Gortash
 I knew it would be risky to give one of the netherstones to that loose catapult Orin, but when I look in her eyes I feel something, though I'm not sure what to call it - and after all, what's the point of a grand alliance of the Dead Three without old Bhaal? 
@@ -349,11 +320,11 @@ Netheril was an ancient human magocracy until its fall 1831 years before the eve
 
 A young and powerful Netherese mage named Karsus felt that it was his duty to return the Netherese Empire to its former glory, so he tried to steal power from a god to become a god himself. As his target he chose Mystryl, who was the Goddess of Magic at that time. He designed a spell named Karsus's avatar that would allow him to steal Mystryl's divinity. Immediately after he cast the spell, he was overwhelmed with the divine power he received and realized his fatal mistake: he stole magic from the one god he shouldn't have.
 
-When Mystryl lost her ability to keep the Weave intact, magic became unstable. To save the Weave, Mystryl sacrificed herself before the damage became irreparable. This broke Karsus’s link to her magic and obstructed the Weave, causing all magic to briefly cease functioning. Without magic, the floating cities of Netheril fell — along with Karsus himself, who died knowing he had destroyed his beloved empire and killed everyone he ever loved.
+When Mystryl lost her ability to keep the Weave intact, magic became unstable. To save the Weave, Mystryl sacrificed herself before the damage became irreparable. This broke Karsus's link to her magic and obstructed the Weave, causing all magic to briefly cease functioning. Without magic, the floating cities of Netheril fell — along with Karsus himself, who died knowing he had destroyed his beloved empire and killed everyone he ever loved.
 
 Mystryl later reincarnated as Mystra, the new goddess of magic. In an effort to prevent similar abuses of magic in the future, Mystra imposed various restrictions on mortals' use of magic, including banning magic beyond 9th level outright and limiting the number of lower-level spells that spellcasters could have access to at a time. 
 ## The Annals of Karsus
-- An ancient handwritten book, rebound at least twice, that purports to be notes written by the Ur-Mage Karsus himself. Much of it is in a personal wizard's cipher, but the final page is written in cleartext.
+- An ancient handwritten book, rebound at least twice, that purports to be notes written by the Ur-Mage Karsus himself. Much of it is in a personal wizard's cipher, but the final page is written in clear text.
 
 My great spell of transcendence is mine alone, not to be committed to ink and parchment, but I have also forged three supreme enchanted items that are the physical embodiments of my wizardry, and of them I shall make record.
 There is a Crown, an Orb, and a Sceptre, each night-alive and with its own power and purpose, and these I call the Regalia of Karsus.

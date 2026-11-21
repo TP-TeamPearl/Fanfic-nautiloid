@@ -10,6 +10,7 @@ The balcony contains four arbalets positioned on either side of the bridge and c
 - 8 [[L_40 Balcony# WI_01 Cannon|Cannon]] (snails)
 - 1 [[WI_00 Rib-Lattice Saturation Engine|Rib-Lattice Saturation Engine]] (Machine Gun)
 ![[L_40.jpg|437]]
+
 # WI_01 Cannon
 Cannon is a living organism employed as one of the vessel's principal weapons. Resembling a large shelled mollusc supported by multiple arthropod-like limbs, it can move independently across the hull and anchor itself wherever required for firing.
 The anterior portion of the creature forms a hardened organic barrel through which concentrated psionic projectiles are discharged.
@@ -18,7 +19,6 @@ The anterior portion of the creature forms a hardened organic barrel through whi
 
 The maintenance station provides mechanical self-cleaning and controlled light exposure to stimulate regeneration. Due to the reduced crew during the mission, biological integrity remains under the Thrall Quartermaster's supervision [[CI_04]], while structural calibration and targeting alignment fall under SEC [[CI_02]].
 *If poorly maintained, a cannon may fail to retract completely, leaving exposed tissue that secretes viscous fluid and requires Thralls to manually scrape away accumulated calcification.*
-^# WI_01 Cannon
 
 ![ref|439](https://cdnb.artstation.com/p/assets/images/images/097/461/081/large/nicolas-vanhemelryck-turret02.webp?1774271423)
 # SHIPBOARD WEAPONS 

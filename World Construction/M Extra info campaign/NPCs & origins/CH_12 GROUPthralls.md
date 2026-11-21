@@ -13,6 +13,6 @@
 - (Goal is to stick to the lore but cues are scarce, feel free to correct and enhance)
 The affection that thralls have for their master should feel real **within the narrow emotional capacity left to them** (CHECK! lore: I found only “double agents acting normal but without any cues about their feelings” and “hollow husks,” such as the Cook in BG3).
 
-Their conditioning may leave behind a particular positive response associated to the master’s presence, something distinct from a [[L_08A Resonance Stone Corner# OI_09 Resonance Stone|Resonance Stone]]. When the master approaches, they may become more attentive, more eager to comply, and display small signs of pleasure or relief. A thrall that is otherwise vacant may brighten subtly in their presence.
+Their conditioning may leave behind a particular positive response associated to the master's presence, something distinct from a [[L_08A Resonance Stone Corner# OI_09 Resonance Stone|Resonance Stone]]. When the master approaches, they may become more attentive, more eager to comply, and display small signs of pleasure or relief. A thrall that is otherwise vacant may brighten subtly in their presence.
 
 # 

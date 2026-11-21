@@ -1,3 +1,6 @@
+>*Aberration adventures are not heroic. Instead, they are horrific. They start badly, and end worse.*
+>— Lords of Madness: The Book of Aberrations
+
 - Bound to an easier "Death" navigation page: [[Characters - Death]]
 # Phases & Events
 **"Phase_x"**
@@ -13,7 +16,7 @@ They represent the major events within a **PHASE**.
 → They also act as filler or as the main storyline. Their .md file contains *our canon story*, which may be an existing character POV, a combination of several POVs, or something unique. These are likely to be the final pieces of the project, so we may favor a single writer to keep the writing style consistent.
 # Scenes
 **"S_xxx"** is a scene ID. 
-**They do not necessarily follow chronological order.** Scenes represent the point of view and interactions of different characters during an **EVENT**. The same scene may be written by different writers for different characters without issue.
+**They do not necessarily follow chronological order.** Scenes may represent the point of view and interactions of different characters during an **EVENT**. The same scene may be written by different writers for different characters without issue.
 *Characters may be wrong or lack information. These gaps contribute to shaping future tensions within the crew.*
 
 **Chained scenes
@@ -92,7 +95,7 @@ Security improvements: preparations before Gith
 | Entry Astral Plane                                        | [[S_046]] Jammers<br>[[CI_02]]                              |                                                             |                                                   |
 | --------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------- |
 |                                                           | [[S_016]] mind control<br>[[CI_05]], [[CH_02]] pet          | [[S_036]] Fishing 🟩<br>[[CH_03]], [[CH_06]]                |                                                   |
-|                                                           | [[S_010\|S_010B]]<br>[[CH_00]] can pilot                    | [[S_028\|S_028B]] Brain Jar<br>xxxx                         |                                                   |
+|                                                           | [[S_010\|S_010B]]<br>[[CH_00]] can pilot                    |                                                             |                                                   |
 |                                                           | [[S_035\|S_035B]] Collapse<br>[[CH_04]]                     |                                                             |                                                   |
 |                                                           |                                                             |                                                             |                                                   |
 | PRISM LOCATED                                             | [[S_054]]                                                   |                                                             |                                                   |
@@ -119,14 +122,14 @@ Security improvements: preparations before Gith
 |                                                           | [[S_077]] DEATH<br>[[CI_03]] killed by gith                 |                                                             |                                                   |
 |                                                           | [[S_056]] Abduct Beazel                                     |                                                             |                                                   |
 | PLANE SHIFT I                                             | [[S_066]]  Escape Gith                                      |                                                             |                                                   |
-| (back to material plane)                                  | [[S_057]] Abduct As Ga                                      |                                                             |                                                   |
+| (back to material plane)                                  | [[S_057]] Abduct As Ga                                      | [[S_028\|S_028B]] Brain Jar<br>xxxx                         |                                                   |
 |                                                           | [[S_067]] Tadpoled<br>Lae'zel & Player                      | [[S_012\|S_012B]] 🟧<br>[[CI_01]] ship redirect             |                                                   |
 |                                                           |                                                             |                                                             |                                                   |
 |                                                           |                                                             |                                                             |                                                   |
 |                                                           |                                                             | [[S_011]] DEATH <br>[[CH_00]]                               |                                                   |
 | EMPEROR is captain                                        |                                                             | [[S_013\|S_013C]] Pixie <br>freed/dead                      | [[S_012\|S_012C]] DEATH<br>[[CI_01]] redir cancel |
 |                                                           |                                                             | [[S_047\|S_047B]] Fridge<br>xxx                             |                                                   |
-| PLANE SHIFT II<br>Light returns: lava <br>+ holes in dull | [[S_060]] Abduct<br>Wyll Karlach                            |                                                             |                                                   |
+| PLANE SHIFT II<br>Light returns: lava <br>+ holes in dull | [[S_060]] Abduct<br>Wyll Karlach                            | [[S_081]]                                                   |                                                   |
 |                                                           | [[S_078\|S_078E]]<br>[[CH_13 Myrnath\|CH_13]] Surgery       | [[S_047\|S_47C]] DEATH<br>xxx                               |                                                   |
 | Zariel's forces attack                                    |                                                             | [[S_050]] Intel Dev<br>[[CI_00]]                            |                                                   |
 |                                                           | [[S_061]] Chit chat                                         |                                                             |                                                   |

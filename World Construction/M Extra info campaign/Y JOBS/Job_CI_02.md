@@ -28,4 +28,4 @@ Second pass: Receives flagged contacts but also has access to the underlying sen
 It operates from a highly restricted command center equipped with monitoring systems, communications equipment, and psionic-frequency amplification.
 
 
-![[JOBS### Security Coverage|Security Team]]
+![[Security structure### Security Coverage|Security Team]]

@@ -6,7 +6,7 @@ security: AH_02
 The laboratory occupies a recessed chamber off the observation corridor. It has no door; instead, a wide threshold is screened by a semi-translucent membrane curtain designed to part easily when large equipment or restraint beds are moved through. Subjects transported from the prison deck can therefore be brought in without obstruction.
 The room was designed for illithid physiology and perception. Illumination is minimal. Surfaces absorb sound, and the space remains cool and damp to preserve biological materials. 
 
-*Human visibility is poor, but [[CI_05]] compensates for this limitation by projecting spatial awareness into [[CH_05]]’s mind, allowing her to function effectively despite the darkness.
+*Human visibility is poor, but [[CI_05]] compensates for this limitation by projecting spatial awareness into [[CH_05]]'s mind, allowing her to function effectively despite the darkness.
 Stone examination platforms [[TOOLS# TI_04 Examination Slabs|Examination Slabs]] occupy the center of the chamber. 
 
 Above the slabs hangs a [[TOOLS# TI_05 Suspended Instrument Rack|Suspended Instrument Rack]]. 

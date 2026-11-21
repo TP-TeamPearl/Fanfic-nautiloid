@@ -16,7 +16,17 @@ Pending: A few locations share a device name, which can be somewhat confusing. S
 - Position of [[TI_03 Psionic seals]] and sensors
 - Practical design for [Gas spreader](<Weapons.md# WH_00 Gas spreader>) 
 
+
+- 3D corrections incoming?
+	I don't want to sound ungrateful, but I'm struggling to understand the significant deviations from the sketch we agreed on regarding the pools and the Garden on Deck 5. 
+
 # Improve: characters
 
 - The main writers should have the final say on their characters' appearance, names, and abilities. Suggestions are more than welcome, but changes are unlikely to be approved without their consent.
-- 
+
+# Interactive Novella
+Bear with me: instead of merely reading random standalone stories along the spine, the interactions and choices made within scenes could influence which standalone stories become available, or unlock alternative versions with different outcomes. Character abilities and rank would determine available choices.
+-> CH_02 could offer an option to retrieve the escaped thrall, thereby preventing the Resonance Stone from being activated. 
+LOL, you are two to write the whole story. 
+What may work: small discoveries / personal moments
+-> 
