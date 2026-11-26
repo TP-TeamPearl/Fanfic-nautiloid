@@ -11,7 +11,7 @@ DISCUSS! If open to discussion before enforcing a decision.
 - Do not upload anything that is not pictures nor text. If you have specific material to integrate, communicate it first through the teampearl mail.
 # Private & Github
 
-- **Y Special:** For additional folders that may not be relevant to other writers. Ask and get them shared on our [Google Drive](<https://drive.google.com/drive/folders/1x7uWKzWCJRYUCujhAbm5OvvV3GkiDyD9?usp=sharing>).
+- **Y Special:** For additional folders that may not be relevant to other writers. Ask and get them shared on our [Google Drive](<https://drive.google.com/drive/u/0/folders/14jGh8bqS_zwiGOZq_TYOsvvkwSnoAMYG>).
   
 - **Z LOCAL:** Your personal creative space by default. Its contents won't be pushed to Gith.
 ## Gitignore
@@ -27,10 +27,4 @@ I doubt we'll use any rules for this project, especially if we're more than thre
 - … (alt 0133)
 - → (alt 26)
 - "x",
-# Proposals or directions out of scope of this project
-
-- [[Not integrated|Not currently integrated]]: Great but no current use for it and/or too conditional.
-- [[Rejected]]: Conflicts with this project's direction.
-
-**The Emperor (CI_00):** *We try to stick as much as possible to the in-game's representation of the Emperor in its whole and rely on the character's construction cues through Larian and Scott Joseph interviews.
-Anything related to potential unexplored paths—whether concerning villainy, redemption, romance, or other speculative complaints about Larian's intentions regarding the broader BG3 content is outside the scope of this project.*
+-  (alt 0160)

@@ -4,7 +4,6 @@
 
 # Quartermaster
 Before departure, CI_04 is responsible for making sure the thrall population is viable for the mission, but it also (likely?) handles the practical needs of the human crew: clothing, hygiene supplies, food, bedding, tools, replacements, basic personal equipment, medical necessities, and whatever mundane infrastructure prevents a long expedition from becoming dysfunctional.
-
 ## Food
 
 **Humanoids:** CI_04's Food supplies are calculated to cover periods spent outside the Astral Sea and are reserved strictly for survival. 

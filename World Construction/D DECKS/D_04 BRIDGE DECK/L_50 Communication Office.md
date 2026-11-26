@@ -33,10 +33,13 @@ A volumetric model of the surrounding astral field. The nautiloid's relative tra
 - A descending, muted tone when a signal fades or is lost.
 
 # PI_13 Psionic Transmitter
+A cable runs through the walls and connects to the control panel [at the Helm](<L_75 The Helm# Control Panel>).
+
 In [[L_50 Communication Office|L_50]], a device that emits powerful, precisely tuned psionic frequencies. Allows illithids to communicate over long distances and, when properly calibrated, penetrate certain psychic defenses.
-## Com-Alert Module
-Bound to [[L_50 Communication Office|L_50]], a secondary function bound to the Psionic Transmitter. Extends its signal through the wearer's psionic tattoo, causing it to pulse when an incoming communication is detected and nobody is present at the station.
-Originally designed for an illithid captain and its pilots. [[CH_00]], [[CI_00]]
+## Com-Alert Module (Outdoor Communication)
+A secondary function of the Psionic Transmitter. 
+
+A button can be pressed to activate a speakerphone-like function, allowing personnel at the Helm to hear incoming communications in real time, alongside those receiving them at the COM.
 
 - **Require:** [[L_50 Communication Office# Psionic Transmitter|Psionic Transmitter]], [[L_57 Secretariat# PI_01 Clocquartz|Clocquartz]] 
 ## Frequency Amplifiers

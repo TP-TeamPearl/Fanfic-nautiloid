@@ -1,11 +1,11 @@
-- Bound to: [[Protocols - CRISIS]]
+- Bound to: [[Protocols - CRISIS]], [[Command structure]]
 
 → The key is to make the protocols rigorous within its intended scope, rather than comprehensive against every conceivable exploit, for our characters to have room and play around.
 
 # Mission Priorities
-**Only the illithids know this in detail**
+==🟠**Only the illithids know this in detail**==
 
-The recovery and safe return of the Astral Prism to Moonrise Towers constitute the overriding mission objective. All personnel and material resources remain subordinate to this objective.
+The recovery and safe return of the Astral Prism to Moonrise Towers constitute the overriding mission objective. All personnel and material resources remain subordinate to this goal.
 
 Where preservation priorities conflict, the following hierarchy applies:
 
@@ -16,29 +16,49 @@ Where preservation priorities conflict, the following hierarchy applies:
 5. **Humanoid personnel**: preserve assigned personnel where their continued function justifies the expenditure of resources.
    → Very likely R2 and R3, the rest (even CH_00) is expendable.
 
+Where human conduct compromises, or presents a credible threat to, vessel integrity, mission completion, critical equipment or assigned operations, illithid personnel may intervene independently. They do not require the Captain's prior approval and may bypass or override his decisions where necessary to protect the mission. The responsible illithids determine the measures required to contain the threat.
+
 # Crew Rules - Immediate Reference
 
 1. **Fire:** Fire is prohibited aboard the nautiloid.
 2. **Identity and Disguise:** Concealing one's identity aboard the vessel is prohibited. Personnel shall not impersonate another individual or deliberately induce confusion concerning their identity through alterations to appearance, access credentials, habits, or voice.
    *Changes of appearance or behaviour undertaken for legitimate operational purposes remain subject to the applicable authorization procedures.*
-3. **Telepathic Communication:** Only illithids are authorized to establish telepathic contact with the human crew regardless of rank, but solely for the purpose of communicating information necessary to the current mission or to the duties and responsibilities assigned to them aboard the vessel. Such contact must remain strictly limited to the information being conveyed and must not extend to the exploration of the recipient's thoughts or memories.
+3. **Telepathic Communication:** Only illithids are authorized to establish telepathic contact with the human crew regardless of rank and distance, but solely for the purpose of communicating information necessary to the current mission or to the duties and responsibilities assigned to them aboard the vessel. Such contact must remain strictly limited to the information being conveyed and must not extend to the exploration of the recipient's thoughts or memories.
 4. **Functional Personnel**: Do not damage personnel who continue to perform their assigned functions without operational necessity. 
 5. **Report suspicious activities**: activities aboard are already filtered through security protocols and log processing, the suspicious ones must be therefore transmitted to the R1 as soon as possible.
    *This rule must remain tricky and a breach of protocol, allowing the story some freedom.*
    Since the chosen control the Elder Brain, they can potentially see and feel everything through the information passing through the illithids. So, there must be a filter to transfer only important problems. However, it should be much stricter aboard the ship.
-6. 
-### Illithid Specifics
+
+### Illithid-to-Illithid Communication
+==🟢→ They're basically free to proceed as they want.==
+
+Illithids are free to communicate directly with one another, privately or collectively, regardless of the presence of human personnel. They may select their recipients, communication format, and level of detail according to their needs. Such exchanges are not subject to the Shared Communication requirement.
+
+Communication may take place over any available distance through appropriate psionic or technical means. The presence of humans within effective range does not require the message to be disclosed, translated, or broadcast to them.
+
+- When communicating information, illithids select and prior recipients (illithids or humankind) according to the relevance of that information to their assigned functions and responsibilities.
+
+- The use of 'mindmeld' does not exempt personnel from informing CH_00 when a matter falls within his legitimate authority or requires his involvement, but his presence or rank does not automatically entitle him to access specialist communications between illithids.
+### Illithid-to-Humankind Communication
 
 1. **Consistent telepathic voice:** Each illithid must select a telepathic voice and use it consistently when communicating with the human crew throughout the entire mission.
-   *Its characteristics can reflect the intended audience, communication protocol, and degree of adaptation to the recipient's culture.*
    
-2. **Shared communication:** Illithids must transmit the same communication to all humans present in the same room or within effective telepathic range, as though it were spoken aloud during a normal conversation involving several people. Illithids are not required to face their interlocutors or devote their full attention to the interaction.
+2. **Shared communication:** The Shared Communication requirement applies when an illithid intentionally communicates with human personnel. In such cases, illithids must transmit the same communication to all members of the human crew present in the same room or within effective telepathic range, as though it were spoken aloud during a normal conversation involving several people. 
+   Illithids are not required to face their interlocutors or devote their full attention to the interaction.
    
 3. **Telepathic Communication:** Such contact must not extend to the exploration of the recipient's thoughts or memories.
+
 ## Human Specifics
 
-1. **Prohibition of Whispering and Private Exchanges:** Human crew members are strictly prohibited from whispering or otherwise attempting to conduct private verbal exchanges within the presence or hearing range of other crew members. All verbal communication must remain audible to those present.
+1. **Prohibition of Whispering and Private Exchanges:** Members of the human crew are strictly prohibited from whispering or otherwise attempting to conduct private verbal exchanges within the presence or hearing range of other crew members. All verbal communication must remain audible to those present.
    *(Banites have no particular reason to anticipate that humans will invent a coded language. There is no established need for one, and the crew is already operating under the assumption that their communications are transparent.)*
+
+2. **Restricted Use of Magical Abilities**: Any spell, magical ability, minion or supernatural effect that extends, enhances, or otherwise exercises an individual's capabilities beyond their ordinary physical or authorized functions is subject to restricted use aboard the vessel. Such abilities may only be employed with prior authorization from the appropriate shipboard authority, unless expressly permitted by an established derogation.
+   
+   Limited derogations may be granted for specific operational purposes, including the remote handling, manipulation, or retrieval of hazardous materials, dangerous components, or otherwise restricted objects, where such actions are expressly authorized by the appropriate authority.
+   **Interpretative principle:** The use of a magical extension of the caster ([Mage Hand]) does not exempt the caster from the protocols governing their own actions. The caster remains fully responsible for any action performed through such an ability.
+### CH_02 PET
+![[S_005#^petprotocol]]
 ## Special cases
 
 1. **Rank and Identification:** Losing an arm—and therefore the psionic tattoo—does not automatically revoke the individual's assigned rank, privileges, or status as a crew member. 
@@ -54,6 +74,31 @@ Where preservation priorities conflict, the following hierarchy applies:
 - The nautiloid: Is a secondary support vessel, but it remains in a **heightened state of readiness while in transit**. A qualified crew member must therefore remain available to respond to threats, navigation problems, system failures, or changes in mission conditions. No scheduling arrangement may leave the vessel without an appropriately qualified responder.
 
 - Illithids are more likely to undertake dangerous tasks in groups, as they can provide mutual insurance: if one dies, another may recover and [preserve](<Protocols## OI_16 Funerary Brain Jar>) its brain. This can mean the difference between a recoverable death and the permanent loss of an individual from the collective. They do not count on the human crew's voluntary cooperation in preserving their remains, and Gortash makes no provision for this either.
+
+- Mirroring Moonrise, Illithid personnel are not required to monitor, report or investigate routine human misconduct. Minor violations, interpersonal disputes, unauthorized exchanges and other disciplinary matters that do not threaten the mission may be left to the human command structure.  
+
+- Where human misconduct compromises, or presents a credible threat to, vessel integrity, mission completion, critical equipment or assigned operations, illithid personnel are authorized to intervene directly. Such intervention does not require the Captain's prior approval and may supersede his decisions. The responsible illithids (CI_02 by default) determine the measures necessary to contain the threat and protect the mission.
+
+- Humankind Workers Protection: Although the Chosen ensure their subordinates to be protected from the colony's hostility, every worker knows that operating in the depth of Moonrise is a risk. If something goes wrong, the illithids could expose and strip away every fragment of their memory and reshape their self. 
+# **Investigation of Protocol Breaches**
+
+The Captain is responsible for the discipline, organization and routine supervision of the human crew. Human personnel must report misconduct, unauthorized activities and internal disputes to the Captain, who determines the appropriate response. ^capRole
+## Mind probing - Solution
+Where a suspected breach of protocol has occurred and no individual admits responsibility, the Captain (CH_00) may order an investigation, including a targeted telepathic probe of the human crew. In the Captain's absence, this authority belongs exclusively to CI_02. It does not pass to another human crew member, even one of equal rank.
+
+When a telepathic probe is ordered, individuals implicated by the available evidence must be examined first. The probe must remain limited to thoughts and memories relevant to the incident. Once the responsible individual has been identified, probing of the remaining crew must cease. The identified individual may be subjected to a deeper examination to establish the extent of the offence and any directly related involvement.
+
+Punishment is generally determined by Gortash at the next scheduled meeting, unless urgency requires an immediate decision through direct communication with the [Elder Brain Transceiver](<L_51 Elder Brain Transceiver Room# PI_11 Elder brain Transceiver >).
+
+# Schedule  - Protocol
+Schedules are deliberately staggered. Although the vessel travels through relatively secure corridors, it remains on alert. [[L_57 Secretariat# PI_01Clocquartz|Clocquartz]] crew allocation therefore ensures that at least one qualified crew member is awake and ready to respond at all times.
+## Record Everything - Protocol
+- All discoveries, modifications, translations, experimental results, and unresolved observations are to be recorded in the operator's most accessible language and on the fittest support before the next remote meeting.
+
+> [!NOTE] Title
+> - CHECK! how qualith is treated by Gortash? Received and translated how much time before the meeting?
+
+- Tools, components, samples and experimental materials assigned to a workspace must remain traceable. Their removal, relocation, reassignment or use outside an authorized task must be recorded and, where required, approved by the responsible supervisor (likely [[CH_03]], and [[CI_04]] for extraction from [the Deposit](<L_24A The Deposit# L_24A The Deposit>)). Concealing such actions or deliberately bypassing the recording procedure constitutes a breach of protocol, regardless of the material's value or the impact on the mission.
 # Elder Brain:
 - Bound but Not Passive
 - Must obey the Chosen, answer truthfully, and follow protocols. Cannot lie or refuse direct orders. Can omit anything not explicitly requested. Holds multiple layers of thought: surface-level obedience, deeper-level intent.
@@ -127,13 +172,3 @@ Also: too weak to pull under control arriving mind flayers, but enough to mainta
 
 -> someone steal an arm from a dead subject, tatoo it with rank 1, then hide it
 -> it's psionic so if you don't want it detected, then you have to hide it where there's already high concentration of psionic flesh tissues
-# Schedule  - Protocol
-Schedules are deliberately staggered. Although the vessel travels through relatively secure corridors, it remains on alert. [[L_57 Secretariat# PI_01Clocquartz|Clocquartz]] crew allocation therefore ensures that at least one qualified crew member is awake and ready to respond at all times.
-
-## Record Everything - Protocol
-All discoveries, modifications, translations, experimental results, and unresolved observations are to be recorded in the operator's most accessible language and on the fittest support before the next remote meeting.
-
-> [!NOTE] Title
-> - CHECK! how qualith is treated by Gortash? Received and translated how much time before the meeting?
-## Workers protection
-Although the Chosen ensure their subordinates to be protected from the colony's hostility, every worker knows that operating in the depth of Moonrise is a risk. If something goes wrong, the illithids could expose and strip away every fragment of their memory and reshape their self. 

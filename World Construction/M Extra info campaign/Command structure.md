@@ -1,4 +1,19 @@
 - Bound to: [[Ranks]]
+
+
+| Situation                                                         | Responsible party                                                |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------- |
+| Minor theft, such as missing workshop tools                       | Captain investigates if he chooses                               |
+| Human disagreement or unauthorized exchange                       | Captain                                                          |
+| Captain orders a mind probe                                       | Illithid telepath carries it out                                 |
+| Illithid notices minor human misconduct                           | No obligation to report or intervene                             |
+| Human conduct threatens a critical system                         | Illithids intervene independently                                |
+| Captain orders illithids to leave a mission-critical threat alone | Illithids may override him                                       |
+| Significant operational deviation                                 | Illithids report to Gortash under the existing command structure |
+|                                                                   |                                                                  |
+|                                                                   |                                                                  |
+
+
 # Command structure and operational autonomy
 
 The Nautiloid operates under [Gortash](<CH_09 Gortash>)'s strategic authority, but its illithid personnel are not directly subordinate to the human crew.
@@ -10,7 +25,7 @@ Gortash established the mission objective and also perhaps the conditions under 
 Illithid personnel are compelled to obey the imposed objectives, but retain considerable autonomy in determining how to accomplish them. They organise their own operations, evaluate available information, allocate responsibilities and determine the necessary intermediate actions. Routes, stopovers, target approaches and other operational adjustments fall within their discretion, provided they remain consistent with the assigned objectives and constraints.
 
 **Meetings:** Significant deviations and decisions affecting the mission's strategic scope must be reported to Gortash. Reporting does not necessarily constitute a request for prior authorisation.
-# CH_01 - the human captain
+# CH_00 - the human captain
 
 The captain occupies a politically appointed position representing Gortash aboard the vessel. His authority should not be confused with direct operational command over the illithid personnel.
 

@@ -13,9 +13,7 @@ You are absorbed in your work when a Banite suddenly approaches.
 The Banite steps closer. She is not openly hostile, but her movements are rigid. She seems distinctly uncomfortable this far below the surface… unless that discomfort comes from your presence. 
 She hands you a folded plan of the vessel.
 
-> Lagda Morel: This indicates your assigned [[L_14 L15 Unused rooms|room]] and [[L_55 and L_56 Vacant Workshop|office]]. You will board as soon as possible. There, you will receive a psionic tattoo granting your access authorizations and operational assignments.
-> 
-> Your referent is [[CI_02|Sc… Ns'h…]] Another damn illithid. You will find it in [[L_57 Secretariat]], or it will find you once it senses your presence.
+> Lagda Morel: This indicates your assigned [[L_14 L15 Unused rooms|room]] and [[L_55 and L_56 Vacant Workshop|office]]. You will board as soon as possible. There, you will receive a psionic tattoo granting your access authorizations and operational assignments. Your referent is [[CI_02|Sc… Ns'h…]] Another damn illithid. You will find it in [[L_57 Secretariat]], or it will find you once it senses your presence.
 
 *This is basically to define your access areas, most likely restricting you to the rooms and decks you actually need, since your role aboard isn't considered critical by default (R4). From there, you'll eventually need to establish your objectives, regardless of whether you actually intend to stick to it.*
 
@@ -34,6 +32,10 @@ _Enter these details in your character profile, expectedly CH_xx [[Character She
 She closes her notebook. Before leaving, she adds one final remark.
 
 > Lagda Morel: A last thing… You are no longer under Ketheric's guidance. From the moment your new functions take effect, you are the property of [[CH_09 Gortash|Lord Enver Gortash]].
+
+## QUESTS
+
+- Meeting the Captain before the departure.
 
 # Entry_2: Gith Squad (Phase_3)
 

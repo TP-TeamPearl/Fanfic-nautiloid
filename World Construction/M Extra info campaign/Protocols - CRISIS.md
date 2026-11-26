@@ -1,4 +1,5 @@
 
+- Survival and goals: bound to [[Ranks]]
 
 
 ## Crisis - Schedule Protocol

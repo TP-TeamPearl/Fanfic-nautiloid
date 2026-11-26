@@ -1,89 +1,116 @@
-- Source: (tumblr: [truly-sincerely](<https://www.tumblr.com/truly-sincerely/746950687587532800/even-more-comprehensive-bg3-timeline>)) + TeamPearl Edit + Wiki?
-# 1300s
-- The Shar's shadow curse was unleashed upon the Western Heartlands (1391)
-- Colony in [[Lore Gortash#^elder-story0|decline]], elder brain enters dormant state
-# 1450s
-- Enver Flymm born;
-- Gale Dekarios born (1457)
-- Enver Flymm sold to Raphael by his parents, renamed Gortash
-- Gortash learns about Crown of Karsus while a prisoner of Raphael
-- Karlach Cliffgate born
-# 1460s
-- Gortash escapes the House of Hope
-- Gale Dekarios summons Tara the Tressym (1467)
-- Wyll Ravengard born (1468)
+# References
+  - tumblr: [truly-sincerely](<https://www.tumblr.com/truly-sincerely/746950687587532800/even-more-comprehensive-bg3-timeline>) *The original author is not affiliated with this project and is not responsible for any modifications made to his work.*
+   - [Wiki](https://bg3.wiki/wiki/The_True_Life_of_'Lord'_Gortash?)
+# Nether Era
+
+- -3859: Beginning of Netherese civilization. 
+  Foundation of the Alliance of Seventon, later known as Netheril.
+- -3533: Discovery of the Nether Scrolls in the ruins of Aryvandaar. 
+  The Netherese gain access to an extraordinary source of arcane knowledge.
+- -3314: Beginning of the Mythallar Era.
+  Development of the magical infrastructure associated with Netherese enclaves.
+- -696: Birth of Karsus. 
+- -669: Karsus establishes the enclave of Eileanar.
+- -339: [[Lore Gortash## Netheril|Karsus's Folly]]. Fall of the Netherese Empire and transformation of the Weave.
+  Thultanthar survives the Fall of Netheril by escaping into the Plane of Shadow (Shadowfell).
+## Details
+*The Netherese originally learned magic from the Eaerlanni elves. Their discovery of the Nether Scrolls subsequently accelerated their magical development.
+Eventually, Netherese arcanists developed extraordinary magical infrastructure, including mythallars, which powered their floating enclaves. Their civilization became famous for its extraordinarily advanced arcane research.*  ([Consider reading:](https://d1vzi28wh99zvq.cloudfront.net/pdf_previews/17546-sample.pdf?utm_source=chatgpt.com))
+
+Karsus attempted to seize the divine power of Mystryl, the goddess of magic, and ascend to godhood. To accomplish this, he created and cast _Karsus's Avatar_, an unprecedented twelfth-level spell. The consequences were catastrophic:
+- Karsus briefly seized divine power but could not control it.
+- Mystryl sacrificed herself to prevent the complete destruction of the Weave.
+- Arcane magic temporarily ceased functioning.
+- The mythallars lost their power, causing the floating cities of Netheril to fall.
+- Karsus died, and the Netherese Empire collapsed.
+  
+Not all Netherese enclaves were destroyed in -339 DR. One particularly important survivor was **Thultanthar**, also called the City of Shade.
+Its inhabitants escaped into the Plane of Shadow, later known as the Shadowfell, and developed a society known as the Shadovar. They became closely associated with Shar and her Shadow Weave.
+
+- Crown of Karsus: Absorbs magical knowledge and allows its wearer to remain independent of the Weave.
+- Orb of Karsus: Stores and accumulates magical energy.
+- Sceptre of Karsus: Focuses and projects immense magical forces.
+# 1370s
+- 1372: Thultanthar returns to Faerûn, appearing over the High Forest.
+- 1385: Mystra is murdered by Cyric, with Shar's involvement. The Weave collapses, triggering the Spellplague.
+- The Shar's shadow curse was unleashed upon the Western Heartlands (~1372 or ~1391).
+- The colony is in [[Lore Gortash#^elder-story0|decline]]; the elder brain enters a dormant state.
+## Details
+Thultanthar represents a separate continuation of Netherese civilization. The Shadovar preserved Netherese knowledge, but their magical practices became deeply intertwined with Shar's influence and the Shadow Weave.
+The Shadow Weave was an alternative magical conduit created and maintained by Shar. It was not the same thing as Karsus's magic or the Karsite Weave.
+# 1450s - 1460s
+- Enver Flymm's birth
+- Enver Flymm is sold into servitude to Raphael by his indebted parents.
+- He serves as a pageboy under Raphael and Nubaldin in the House of Hope.
+- Gortash aknowledges the existence of powerful artefacts, like the Crown of Karsus
+- Gortash eventually escapes the House of Hope.
+- At some point, he adopts the name Gortash. 
 # 1470s
-- Lae'zel of K'liir born (1470)
-- Gortash in his Heapside Reavers period
-- Gortash rebrands as a black market arms dealer
-- Orin the Red born to Helena and Sarevok Anchev
-- Wyll [[Lore KotS#^metbel|meets Stelmane]] in ~1474  
-- Durge begins their serial killing spree in B.G (1477)
+- Gortash begins establishing his influence in Baldur's Gate's criminal underworld.
+- Gortash develops an illicit arms-smuggling operation, eventually challenging the Knights of the Shield and the Zhentarim.
+- Wyll [[Lore KotS#^metbel|meets Stelmane]]  as a child in ~1474. 
+- 1477: The Dark Urge, accompanied by Sceleritas Fel, commits a series of murders in Baldur's Gate.
 - The Emperor dominates Duke Stelmane (1479 per lore module "Murder in Baldur's Gate")
 # 1480s
-- Elminster resurrects Mystra (1480)
-- Gortash trades Karlach to Zariel for infernal machines & iron (1482)
-- Baldur's Gate's Beloved Ranger statue goes missing (1482)
-- Duke Abdel Adrian murdered during Returning Day speech (1482)
-- Bhaal resurrected
-- Ulder Ravengard replaces Adrian as Marshall and as Duke
-- Orin kills her mother Helena in self-defense
-- Gortash recruits Franc Peartree to distribute infernal iron weapons
-- Gortash establishes a cult of Bane in Baldur's Gate
-- [[Lore Gortash#^chosen-story0]|Gortash approaches Durge about an alliance]]
-- Gortash moves against the [[Lore KotS##^kots-rep|Zhentarim]] & the [[Lore KotS## The Stelmane Connection|KotS]]
-- Ulder Ravengard named Grand Duke
-- Wyll Ravengard pact with Mizora
-- Dead Three made aware of the Crown of Karsus (?)
-- Gortash becomes Bane's Chosen
-- Durge becomes Bhaal's chosen
-- [[Lore Gortash#^chosen-story01|Hall/House of Wonders test mission]]
-- [[Lore Gortash#^chosen-story02|Gortash & Durge are instructed to recruit Ketheric]]
-- [[Lore Gortash#^chosen-story1|Gortash tells Durge about Crown of Karsus ]]
-- Durge gets Bhaalist memorabilia
-- Gortash gets a bunch of Gondian designs
-- Durge & Gortash get companionship
+- Elminster brings Mystra back to life (1480).
+- Gortash hands Karlach over to Zariel in exchange for infernal machinery and iron (1482).
+- The Beloved Ranger statue disappears from Baldur's Gate (1482).
+- Duke Abdel Adrian is assassinated while delivering his Returning Day speech (1482).
+- Bhaal is resurrected.
+- Ulder Ravengard succeeds Abdel Adrian as Marshal of the Flaming Fist and Duke.
+- Gortash enlists Franc Peartree to distribute weapons forged from infernal iron.
+- Gortash establishes a Banite cult within Baldur's Gate.
+- Gortash approaches the Dark Urge with a proposal for an [alliance](<Lore Gortash#^chosen-story0>).
+- Gortash begins targeting the [[Lore KotS##^kots-rep|Zhentarim]] & the [[Lore KotS## The Stelmane Connection|KotS]].
+- Ulder Ravengard is appointed Grand Duke.
+- Wyll Ravengard enters into a pact with Mizora.
+- The Dead Three are made aware of the Crown of Karsus (possibly through Gortash).
+- Gortash is elevated to the position of Bane's Chosen.
+- (1487: Thultanthar is destroyed when it crashes into Myth Drannor.)
+- The Dark Urge becomes Bhaal's Chosen.
+- A test operation is conducted at the [Hall/House of Wonders](<Lore Gortash#^chosen-story01>).
+- Gortash and the Dark Urge are tasked with [recruiting Ketheric](<Lore Gortash#^chosen-story02>) into their alliance.
+- Gortash informs the Dark Urge [[Lore Gortash#^chosen-story1|about the Crown of Karsus ]].
+- The Dark Urge acquires Bhaalist keepsakes and memorabilia.
+- Gortash obtains a collection of Gondian designs.
+- The Dark Urge and Gortash develop a close partnership.
 # 1490s
-- The Chosen visit Ketheric at Moonrise, [[Lore Gortash#^chosen-story03|learn about Illithid colony]]
-- [[Lore Gortash#^helsik0|Gortash & Durge visit the House of Hope]]
-- [[Lore Gortash#^helsik05|Gortash & Durge raid Mephistar]]: They get the Crown of Karsus and [[Lore Gortash#^steal-crown|the book on the accelerated grand design]]
-- Gortash & Durge return to Moonrise
-- Their identities are kept secret from Ketheric's people
-- Durge proposes their plan to the Elder Brain [[Lore Gortash#^army|that accepts ]]
-- [[Lore Gortash#^durge-betrayed0|Raid on the illithid colony (1491)]], Durge puts the Crown on the [[Lore Gortash#^elder-story1|Elder Brain]], 
-  Orin gets Durge alone during the raid & [[Lore Gortash#^durge-betrayed1|stabs them in the head]] and tadpole them, making the Dark Urge the [[Lore Gortash#^durge-tadpole|first True Soul]].
-- Orin declares herself the Chosen of Bhaal
--  [[Lore Gortash#### Shield Steward Interrogation Log|Gortash captures the Emperor]]
+- The Chosen meet with Ketheric at Moonrise Towers and discover the [illithid colony](<Lore Gortash#^chosen-story03>) beneath the fortress.
+- Gortash and the Dark Urge travel to the House of Hope.
+- Gortash and the Dark Urge [steal the Crown of Karsus](<Lore Gortash#^helsik05>>) and a [tome](<Lore Gortash#^steal-crown>) detailing the accelerated Grand Design from Mephistopheles.
+- They return to Moonrise Towers, keeping their identities concealed from Ketheric's followers, just as Ketheric's cultists conceal their true allegiance to Myrkul.
+- 1491: The Chosen launch an [assault on the illithid colony](<Lore Gortash#^durge-betrayed0>). During the raid, the Dark Urge [places the Crown](<Lore Gortash#^elder-story1>) of Karsus upon the elder brain.
+  During the assault, Orin isolates the Dark Urge, [[Lore Gortash#^durge-betrayed1|stabs them in the head]] and implants an illithid tadpole, making them the [[Lore Gortash#^durge-tadpole|first True Soul]].
+- Orin proclaims herself the new Chosen of Bhaal.
+- [[Lore Gortash#### Shield Steward Interrogation Log|Gortash captures the Emperor]] and sends it back to the Elder Brain beneath Moonrise Towers, now under his control.
 # 1492
-- Durge is found by [[Lore Gortash#^durge-betrayed2|Kressa Bonedaughter]]
-- Minsc captured by Absolutists at a recruitment rally in the Undercity
-- Gortash gets weird and intense with unethical experiments
-- Some futzing to get the [[Lore Gortash# Suspended Ceremorphosis|tadpoles to consistently remain in stasis]]
-- This is when the name [[Lore Gortash##^voiceeb00|‘True Souls']] gets coined
-- Getting the Absolute's [[Lore Gortash#^voiceeb|voice]] sorted out
-- Gortash tadpoles his parents
-- Poorly conceived experiments on [[Lore Gortash# Manipulations and Motivations: Sacrifice|children & their parents]]
-- Gortash has Iron Throne converted to hold hostages
-- Gortash presents prototype Steel Watcher to the city council
-- Jaheira tracks cult to shadow-cursed land, meets Isobel
-- Minthara Baenre is [[Lore Gortash## Minthara capture|'recruited']] by Orin and Ketheric
+- [[Lore Gortash#^durge-betrayed2|Kressa Bonedaughter]] discovers the Dark Urge.
+- Gortash works to ensure that the tadpoles consistently remain in a [[Lore Gortash# Suspended Ceremorphosis|state of stasis]].
+- The designation [[Lore Gortash##^voiceeb00|‘True Souls']] is coined.
+- Efforts are made to establish the Absolute's [[Lore Gortash#^voiceeb|voice]].
+- Gortash infects his own parents with tadpoles.
+- Gortash has the Iron Throne refitted to accommodate prisoners and hostages.
+- Experiments involving children and their parents are conducted.
+- Gortash unveils a prototype Steel Watcher before the city council.
+- Jaheira follows the cult's trail into the Shadow-Cursed Lands, where she encounters Isobel.
+- Minthara Baenre is [[Lore Gortash## Minthara capture|recruited]] by Orin and Ketheric.
 
-The Descent, Elturel fall into Avernus happens between there and ACT III:
-- (Duke Vanthampur revealed as a diabolist, killed by adventurers)
+The events of *Baldur's Gate: Descent into Avernus*, including Elturel's fall into Avernus, take place during this period, before Act III.
+- (Duke Thalamra Vanthampur is exposed as a diabolist and subsequently killed by adventurers.)
 
-- Guild Bursar Uktar launders money for Gortash's Campaign funds
-- Isobel is resurrected by the Dead Three
-- The Elder Brain sends the Chosen [[Lore Gortash#^gordream|dreams]] about the [[Lore Gortash#^empymission|Astral Prism]]
-- Gortash researches the Prism, finds out that [[Lore Gortash#^mission0|Vlaakith has it]] 
-- Gortash tasks Ketheric to retrieve the Astral Prism
-- Gortash tasks Ketheric send a nautiloid [[Lore Gortash#^mission0A|piloted by the Emperor]] 
-- Magthew Budj arranges for [[Lore Gortash#^durge-ship|Durge]] to be on the nautiloid as well
-- [[Act 3.xxx Viconia# Viconia|Sharrans prepared]] for astral prism [[Lore Gortash### Viconia - mission|heist ]]
-- Gortash deploys Steel Watch in Lower/Outer City
+- Guild Bursar Uktar launders money intended to finance Gortash's political campaign.
+- Isobel is brought back to life by the Dead Three.
+- The Elder Brain begins sending the Chosen [[Lore Gortash#^gordream|dreams]] concerning the Astral Prism.
+- Gortash investigates the Astral Prism and discovers that it is in [[Lore Gortash#^mission0|Vlaakith's possession]] .
+- Gortash orders Ketheric to recover the Astral Prism.
+- Gortash instructs Ketheric to dispatch a nautiloid [[Lore Gortash#^mission0A|piloted by the Emperor]].
+- Magthew Budj arranges for the [[Lore Gortash#^durge-ship|Dark Urge]] to be aboard the nautiloid as well.
+- The [Sharrans](<Act 3.xxx Viconia# Viconia>) make preparations for the [[Lore Gortash### Viconia - mission|theft]] of the Astral Prism.
+- Gortash deploys the Steel Watch throughout the Lower and Outer City.
 
-(At this point Elturel is no longer in Avernus)
+*(By this point, Elturel has already returned from Avernus.)*
 
-- First Druid Halsin captured by goblins
+- First Druid Halsin is captured by goblins.
 ## Nautiloid events
 
 - [[S_045]] Nautiloid picks up Shadowheart & the Prism from the Astral Plane.

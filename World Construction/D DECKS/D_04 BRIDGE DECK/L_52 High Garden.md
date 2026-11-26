@@ -6,6 +6,13 @@ security: (AI_02)
 A vertical extension of the garden rises through an unusually tall section of the vessel. The arrangement is irregular enough to make the additional space feel less like an intentional chamber and more like a cavity formed around some older biological structure (as the alien lung-tree growing near a wall).
 Vegetation grows densely around the floor and lower walls. Butterflies, toads, and other harmless small creatures may be encountered among the vegetation. 
 Near the ceiling, the illumination is completely absent. One of the human crew dragged a wooden bench in a secluded corner of the chamber.
+
+---
+
+DISCUSS!
+Speak with animal with the creatures there?
+- Reveal a particular passage.
+- 
 ## Inventory:
 - [[L_52 High Garden# OI_05 Lung-Tree|Lung-Tree]]
 - Unidentified plant specimens

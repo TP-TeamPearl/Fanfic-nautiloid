@@ -10,6 +10,7 @@ Located behind a mere iron security door adjoining the Communication Office, the
 
 ![[L_51.jpg|453]]
 # PI_11 Elder brain Transceiver 
+
 This shell remains permanently opened. The egg hangs slightly above the floor, suspended by massive vascular tendrils that disappear into the surrounding walls. Instead of terminating in ritual wading pools, these conduits vanish into armored conduits leading toward psionic reservoirs [[L_08B Psionic Corner|L_08B]], eliminating the need for eight attending illithids.
 
 ## Elder Brain Transceiver

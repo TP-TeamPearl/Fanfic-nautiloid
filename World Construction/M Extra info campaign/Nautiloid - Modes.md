@@ -5,12 +5,13 @@ SEC and eventually Communication can recommend specific manoeuvring based on a t
 
 When no pilot is registered at the helm, the Nautiloid remains in Drowsing mode until a trajectory has been established and transmitted by the Communication Office. Once a valid trajectory is received, it can autonomously enter Cruise and follow the supplied navigational instructions, making only elementary corrections. This autopilot mode does not provide the same degree of control or adaptability as active piloting.
 
-| Mode     | Primary purpose        | Energy profile   |
-| -------- | ---------------------- | ---------------- |
-| Cruise   | standard navigation    | balanced         |
-| Silent   | concealment            | reduced activity |
-| Drowsing | recovery               | replenishment    |
-| Pursuit  | aggressive manoeuvring | high consumption |
+| Mode      | Primary purpose        | Energy profile   |
+| --------- | ---------------------- | ---------------- |
+| AutoPilot | pilotless operation    | balanced         |
+| Cruise    | standard navigation    | balanced         |
+| Silent    | concealment            | reduced activity |
+| Pursuit   | aggressive manoeuvring | high consumption |
+| Drowsing  | recovery               | replenishment    |
 # Cruise (Mode)
 
 The standard operating configuration for sustained navigation.
@@ -26,6 +27,14 @@ The pilot maintains the vessel's intended trajectory (established by [[L_50 Comm
 - Active pilot supervision and intervention when circumstances require.
 
 Cruise is the default configuration when no specialised operating mode is required.
+
+# Autonomous Navigation (Pilotless Operation)
+
+- No pilot is registered at the helm.
+- The nautiloid enters in a slower Cruise mode and follows eventual prior pre-loaded instructions. (COM keep transmitting a valid trajectory.)
+- It performs elementary corrections using [its own](<The Nautiloid#^autopilot>) sensory feedback.
+- It cannot reliably anticipate unexpected hazards or make complex navigational decisions.
+- A qualified pilot can resume manual control and interrupt autonomous operation.
 # Silent (Mode)
 
 DISCUSS! This mode is the default one in X environment, or it has this special Silent Mode against Gith?

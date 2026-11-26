@@ -3,8 +3,10 @@ security: AI_01
 ---
 ![[D_01 grid.jpg|181]]![[D_01 3D.jpg|180]]
 # L_17 Pools
-The illithids indulge in comfort here, blending basins, and waterfalls. This “natural” corner of the nautiloid is constructed from moss and stone collected in the material plane. Illithids come here after work to relax in the pools and wash beneath the nearby waterfall.
-Note: Only personal thralls are allowed inside to clean the pools, and only in the absence of their masters.
+The illithids indulge in comfort here, blending basins, and waterfalls. This "natural" corner of the nautiloid is constructed from moss and stone collected in the material plane. Illithids come here after work to relax in the pools and wash beneath the nearby waterfall.
+*Only personal thralls are allowed inside to clean the pools, and only in the absence of their masters.*
+
+Those pools are not treated exclusively as bathing facilities. They are used to extinguish fire in case of crisis.
 ## Inventory:
 - Air purificator
 - Large pools

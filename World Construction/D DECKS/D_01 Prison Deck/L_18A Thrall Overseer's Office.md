@@ -3,7 +3,8 @@ security: AI_02
 ---
 ![[D_01 grid.jpg|181]]![[D_01 3D.jpg|180]]
 # L_18A Thrall Overseer's Office
-Like a suspended panopticon.
+Like a suspended panopticon. The office is considerably higher than the surrounding floor and cannot be reached by ordinary human means.
+
 A semicircular observation office suspended along the lift rail, immediately beneath the ceiling. Its curved frontage overlooks the open section of the corridor, providing a direct view of workers moving below, the lift in operation, and merchandise transported along the adjoining rails.
 The office is enclosed behind black glass, with one lateral section replaced by a psionic veil providing access. From inside, [[CI_04]] can supervise activity around the lift while remaining concealed from those below. Black glass ensures thralls cannot determine whether it observes or rests behind [[L_18B CI_04 Rest room|L_18B]].
 
@@ -17,3 +18,7 @@ Everything perceived by a docked Eye is transmitted in real time to [[L_41 SECUR
 - 1 Command board (physic)
 - Docked [[PI_18 Scrying eye|Scrying Eyes]]
 - [[TOOLS# TI_01 Cephalometer|Cephalometer]]
+- [[L_41 SECURITY Room#PI_22 Fire Suppression System|Fire Suppression System]]
+
+![[L_41 SECURITY Room#PI_22 Fire Suppression System|Fire Suppression System]]
+

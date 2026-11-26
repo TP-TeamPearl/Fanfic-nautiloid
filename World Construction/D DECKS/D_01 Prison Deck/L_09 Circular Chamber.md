@@ -11,11 +11,11 @@ The precise purpose of maintaining multiple observer stations is uncertain. They
 
 - Transformation pod (with a lever) (CHECK! improve here [[PI_06 Birthing Pod## Pod|Birthing Pod]])
 
-![[L_09.jpg|412]]![ref|154](https://cdnb.artstation.com/p/assets/images/images/075/872/947/large/maxime-ponslet-aa02.jpg?1715645469)
+![[L_09.jpg|412]]![[viscouschair-ai-gen.jpg|149]]
 ## PI_21 Connected chairs
 - Bound to: Crisis [[Weapons - nautiloid# WI_03 Psionic Jammers|Psionic Jammers]], [[S_079]]
 
-A set of chairs connected to the Nautiloid's internal neural systems. Occupants can pass and access information circulating through the vessel, experiencing its communication traffic as translated sensory impressions.
+A set of "Viscous Chairs" connected to the Nautiloid's internal neural systems. Occupants can pass and access information circulating through the vessel, experiencing its communication traffic as translated sensory impressions.
 
 - The chairs provide an interface to the vessel's neural network rather than establishing direct telepathic contact between their occupants.
 

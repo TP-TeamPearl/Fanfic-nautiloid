@@ -8,6 +8,8 @@ In front of the captain, several illithid control panels have been bridged with 
 A separate rail runs between the two pilot seats, carrying a compact control unit within [[CH_00]]'s immediate reach. Rather than reproducing the illithid interface, it provides crude human equivalents: levers, selectors, switches, and other controls intended to translate direct mechanical or arcane inputs into commands for the vessel. Much of this system remains incomplete or barely functional.
 
 - VISUAL DISPLAYS: Three screens are positioned directly before the pilots. With no windows or external view, they provide the helm with an artificial visual feed. The central display can relay live or near-live transmissions from [[CH_09 Gortash|Gortash]] when he addresses the vessel's crew. When no transmission is active, the screens may instead display a visual feed from the Bridge Deck or relay radar and other sensor information from the Communication Room.
+
+- The Helm can monitor incoming communications, potentially coordinate with the COM operator telepathically, and summon them when a conventional response is required.
 ## Inventory:
 - Psionic Engine Regulation (to++ can you remember what it was?)
 - [[L_75 The Helm# SPELLJAMMING HELM|Spelljamming Helm]]
@@ -50,4 +52,15 @@ Maps are unnecessary for navigating the Astral Sea. Creatures there possess an i
 This awareness provides direction, not information about the journey. It does not indicate the route's safety, distance, or hazards; those factors are determined by the DM.
 
 # Control Panel
+- [COM module](<L_50 Communication Office## Com-Alert Module>)
 
+## Com-Alert Module (Monitor)
+
+When an incoming communication is detected [at the COM](<L_50 Communication Office## Com-Alert Module (Input)>) while nobody is present there, the indicator light at the Helm begins to pulsate.
+
+One of the spelljammers present (generally the co-pilot) can press the first button to listen to the incoming communication through the Helm's speakers. The communication remains connected to the COM, but the Helm personnel cannot respond through it.
+
+If a response is necessary, another button can be pressed to send a signal to the COM wearer's psionic tattoo, causing it to pulse in a specific sequence to indicate that their presence is required at the station.
+
+
+CHECK! R: I made major changes in both modules to match better the initial draft.

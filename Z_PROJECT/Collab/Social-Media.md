@@ -6,6 +6,7 @@ The core team would rather avoid posting the original "TeamPearl" repository eve
 You're free to discuss/link to it on your own blogs and on the TeamPearl Tumblr account, provided you've been granted access.
 
 - [Larian official forum](https://forums.larian.com/ubbthreads.php?ubb=showflat&Number=967907#Post967907)
+  (Bound to: )
 
 ---
 

@@ -28,7 +28,7 @@ CHECK! Optional Extension: If the commander is unknowingly tadpoled, or if certa
 # AH_00 Scale
 In the absence of lift, mere wooden or metal scales provide a crude means of access to areas of the vessel originally designed for illithid movement alone.
 # AH_01 Lift
-A wide, steel-framed platform mounted on mechanical rails runs along the spinal axis of the nautiloid. It is operated through a junction box linked to both psionic relays and physical dials.
+A wide, steel-framed platform without doors or an enclosed cabin mounted on mechanical rails runs along the spinal axis of the nautiloid. It is operated through a junction box linked to both psionic relays and physical dials.
 Primarily used by thralls and human crew—since illithids utilize their own ceiling-access shafts between decks—the lift facilitates the movement of heavy cargo, supply crates, and medical stretchers.
 
 The lift descends from the [[D_04 BRIDGE DECK|Bridge Deck]]  to the [[D_01 PRISON DECK|Prison Deck]], where it interfaces with the overhead rail system. Upon arrival, only minimal lateral displacement of the rail carriage is required to align the suspended cargo with the receiving zone.

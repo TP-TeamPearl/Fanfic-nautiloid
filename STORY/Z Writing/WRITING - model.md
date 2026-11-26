@@ -1,8 +1,8 @@
 The main idea is: Once the scenes are written, we can select among them and piece them together to create the main scenes within the events. We'll probably have to change a few things to make it work. Maybe we could reintroduce the idea of chapters here? We could clean up the mess and go with Chekhov's gun
 
-# Characters - presentation
 
-We could have a box of objects displayed on the screen, with clickable areas providing a few clues about who they are (a drawing of someone, tickets, a particular type of food or wine, a letter, etc.).
+> [!NOTE] All characters have names, 
+> but it was decided to remove them as the project opened up to the public, making it easier for contributors to appropriate existing figures they might be interested in and develop them further. Their resource IDs will be replaced during the final writing stage anyway.
 
 # General rules:
 
@@ -34,3 +34,5 @@ Headers are always factual, they encompass the characters'secrets and the way th
 - Resource for writing
   https://writershelpingwriters.net/book/the-emotion-thesaurus/
 St ->  I'm currently reading it
++ Character archetypes [(for TV)](https://tvtropes.org/pmwiki/pmwiki.php/Main/ArchetypalCharacter)
++ 

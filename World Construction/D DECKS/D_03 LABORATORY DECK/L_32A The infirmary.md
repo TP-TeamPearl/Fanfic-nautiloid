@@ -18,4 +18,8 @@ The infirmary is operated jointly by [[CH_07]] and [[CH_06]].
 - Suspended illithid fluid reservoirs 
 - Stone examination table fitted with unidentified technology
 - [[PI_19 Memory Repository|Memory Repository]] 
-![[L_32A.jpg|485]]
+
+
+| ![[L_32A.jpg\|390]] | ![[myrnath-p4.jpg\|240]] |
+| ------------------- | ------------------------ |
+

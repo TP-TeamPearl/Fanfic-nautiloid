@@ -6,6 +6,8 @@ Status: Chosen of Bane
 ---
 Inventor, pioneer, megalomaniac.
 
+- Bound to: [[Gortash-prepaMeetings]]
+
 | Main Writer: | Support: |
 | ------------ | -------- |
 # Social Dynamic

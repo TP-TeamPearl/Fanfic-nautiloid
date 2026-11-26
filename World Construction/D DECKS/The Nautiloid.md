@@ -7,13 +7,12 @@ Narrator: *Nerves, sinews, as much living being as ship.*
 Narrator: *The pulsing glow and organic lines of the device make it seem more like a beating heart than a machine.
 The console hums steadily, awaiting command.*
 Player: *Place your hand on the console again.
-Narrator: Suddenly you feel a hideous squirming in your head. The parasite. Then discomfort fades, and another sensation washes over you. Connection. Authority. You feel the biomechanical brain of the console process your command… and yield to it.*
+Narrator: Suddenly you feel a hideous squirming in your head. The parasite. Then discomfort fades, and another sensation washes over you. Connection. Authority. You feel the biomechanical brain of the console process your command… and yield to it.* ^tadpoleCommand
 
 - Source: Spelljammer Adventures in Space
 Created by mind flayers, nautiloids are vessels built solely for travel through space. They cannot operate on water and are not designed to land safely on solid ground.
 
 A spelljamming helm handles small course adjustments automatically, steering around meteors, debris, and creatures that inhabit the void.
-
 
 # Our Nautiloid
 The vessel itself is in a state of constant evolution. Unused chambers are gradually reclaimed as metabolic dead zones, degenerating until they are absorbed by walls of living flesh, while new spaces may form in response to damage, stress, repair, or changing needs.
@@ -25,7 +24,7 @@ These sensations can be differentiated through intensity, pulse, or shifts in pe
 
 The vessel does not see its surroundings but it has a crude spatial awareness through changes in gravity, pressure, motion, and the relative position of sufficiently perceptible objects. This allows it to perform simple autonomous corrections, such as lowering or gaining altitude, stabilising itself or avoiding an immediately perceived obstruction. However, it cannot reliably distinguish between an immediately interesting stimulus and an operationally relevant one.
 
-The vessel is a living organism whose sensory priorities do not naturally coincide with those of its occupants. It possesses an instinctive tendency to investigate its surroundings with its tendrils rather than remain strictly focused on its established trajectory. This behaviour can accumulate minor deviations, cause unnecessary exposure to potential threats, and, most importantly, waste time.
+The vessel is a living organism whose sensory priorities do not naturally coincide with those of its occupants. It possesses an instinctive tendency to investigate its surroundings with its tendrils rather than remain strictly focused on its established trajectory. This behaviour can accumulate minor deviations, cause unnecessary exposure to potential threats, and, most importantly, waste time. ^autopilot
 # History of This Nautiloid
 
 Many of the technologies accumulated aboard this particular vessel have already been bridged, deciphered, and readjusted over its service life. The ship appears to have been maintained primarily by illithids specialised in warfare and ballistics rather than artisans or arcane researchers. This may explain why several older arcane systems were preserved and adapted instead of being dismantled and replaced with cleaner and more sophisticated psionic devices.
@@ -43,3 +42,8 @@ This nautiloid is designated as a secondary asset, travelling in support of the 
 This reduces its expected risk, but Gith interception and planar hazards remain credible threats. The crew therefore maintains a constant state of operational readiness.
 The vessel is not intended to make first contact with the Artifact or seize it independently. The prototype machinery aboard represents assets that [[CH_09 Gortash]] cannot easily reproduce if the ship is lost.
 
+# About: Gradual Reclamation
+
+The Nautiloid's biological reclamation of disused or degraded rooms is an extremely slow process, largely unnoticed until it begins to interfere with something the crew needs. 
+
+The process becomes operationally relevant only when/if it reaches functional components. Organic growth interfering with a door connection, access mechanism, lighting circuit or other essential system may cause intermittent faults or eventual failure. Such incidents require CH_02's inspection and CH_04 or CI_02's intervention to clear the affected components and restore their function to delay further encroachment.

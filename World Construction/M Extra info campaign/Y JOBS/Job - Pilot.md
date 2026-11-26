@@ -1,8 +1,19 @@
 [[CI_00]] is the main Pilot aboard.
+
+- Bound to: [[Nautiloid - Modes]]
 # Pilot Coverage
-Two qualified illithids are supposed to remain assigned to the command room while in transit. One maintains active control of the vessel; the second serves as co-pilot and watch officer. Both may operate the helm during complex manoeuvres. Pilot rotations are arranged around the standard rest and free-time cycles. 
+During active piloting and complex manoeuvres, a qualified pilot and a second qualified operator should be available whenever practicable.
+One would maintain active control of the vessel; the second would serve as co-pilot. Both may operate the helm during complex manoeuvres. Pilot rotations are arranged around the standard rest and free-time cycles. 
 *[[CI_03]] operates as reservist pilot in Rest-time of CI_00.*
 ^Pilot-Coverage
+## Pilot Dependence
+![[Planning#^Sched-CI-00]]
+![[Planning#^Sched-CH-00]]
+![[Planning#^Sched-CI-03]]
+
+![[Planning#^Sched-CI-02]]
+![[Planning#^Sched-CI-01]]
+![[Job - Pilot#^Pilot-Coverage]]
 # Five levels of navigational information
 
 | Level           | Responsible | Primary function                                                                                     |
@@ -21,7 +32,6 @@ Pilot authority: Receives the resulting information from SEC and Communication a
 - Assesses whether reduced emissions or a change of course is appropriate.
 - May initiate a Mode independently.
 - Executes the vessel's operating configuration and manoeuvres.
-
 
 # Navigation
 

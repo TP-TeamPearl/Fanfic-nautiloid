@@ -9,7 +9,7 @@
 - Security measures
 - Weapons
 - MORE fucked-up MACHINE$!
-
+- Crates content (food, artifacts, spell components, …)
 # Characters and their roles
 
 1. Minimal crew required, fully integrated.
@@ -20,6 +20,8 @@
 - Secrets
 - Gains during the travel
 
++ + Myrnath
++ First Gortash's remote dialogue meeting
 # Major events
 
 DISCUSS! What we need are real stakes. It began with the simple goal of adding scripted horror scenes involving illithids along with more interactions with the Emperor. But we have moved beyond the mere draw on an under-glass to develop a human-scale environment almost playable. We have the means to do much more…
@@ -36,9 +38,6 @@ DISCUSS! What we need are real stakes. It began with the simple goal of adding s
 
 # Scenes
 
-→ If I understand correctly, this is an oscillating process: an initial move to advance social dynamics and develop the characters, before returning to Phase_0 and preparing them better for boarding. We'd establish cues there that would be revealed later (opportunities, threats, etc.)
-
-BG3 also has very rich scenes, offering different levels of comprehension depending on dialogue choices, additional information indirectly connected to other elements, and visual details that can tell another story in the background. Some of this is likely condensed for production reasons, but having these "multidimensional" scenes ensures that there's always something to appeal to different players while advancing the plot.
-
+BG3 has very rich scenes, offering different levels of comprehension depending on dialogue choices, additional information indirectly connected to other elements, and visual details that can tell another story in the background. Some of this is likely condensed for production reasons, but having these "multidimensional" scenes ensures that there's always something to appeal to different players while advancing the plot.
 → Through different branching paths, we won't have that...
 →DISCUSS!→ Why not? 

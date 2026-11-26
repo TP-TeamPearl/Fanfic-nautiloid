@@ -8,7 +8,7 @@ They tend to conceal their purpose—especially to the human crew, whether by fa
 
 Illithids evaluate crew members according to their usefulness, competence, replaceability, and risk. They are likely to cultivate cooperation, test boundaries through minor manipulations, and extract the greatest possible return for the least expenditure without it to be necessarily hostile.
 
-They value reliable exchange, discretion, access, and results. They could maintain close partnerships with some CH_ if the arrangement continues to produce benefits. Trust is not a prerequisite; predictable conduct and mutual utility are enough. They prefer to retain leverage and limit obligations that do not serve their objectives. 
+They value reliable exchange, discretion, access, and results. They could maintain close partnerships with some CH_ if the arrangement continues to produce benefits. Trust is not a prerequisite; predictable conduct and mutual utility are enough. They prefer to retain leverage and limit obligations that do not serve their sub-objectives. 
 
 [[CI_00]] consistently frames relationships through utility, alignment, and strategic compatibility, even if or when affective attachment may also be present.
 
@@ -51,10 +51,11 @@ Illithids process multiple outcomes at once; disruption occurs only when multipl
 ![[A3.175 Assimilation#^illithid-cog0]]
 
 ![[Interview-BG3 8#^computational1]]
+![[Interview-BG3 8#^transactional1]]
 # Language: Adapting to Humanity
 
 **Unnatural:** Illithids have no natural voice. (Related to [Protocols](<Protocols### Illithid Specifics>))
-Illithids have no natural voice—their cognition is fundamentally psionic. A stable voice does not imply a stable human persona, and successful vocal presentation does not imply human identification.
+Their cognition is fundamentally psionic. A stable voice does not imply a stable human persona, and successful vocal presentation does not imply human identification.
 *A reminder that although the Emperor uses a single voice when revealed, this voice is a tailored projection based on efficiency, not an inherent part of its identity.*
 
 **Inefficient:** Communication through humanoid language requires the illithid to encode its thoughts into a sequential, culturally specific medium that is less efficient, less direct, and vulnerable to misinterpretation.
@@ -92,12 +93,12 @@ Illithids have a narrower range of emotions than humankind and they do not neces
 >Narrator: *A thousand years of humanoid history - elves, dwarves, humans and more - flash behind your eyes.*
 
 - Emotions lack decisive authority.
-Genuine emotion does not establish reciprocal attachment, selflessness, lasting commitment, or a change in priorities.
+  Genuine emotion does not establish reciprocal attachment, selflessness, lasting commitment, or a change in priorities.
 # Identity
 
 **To be Illithid is to be superior, not corrupted.**
 Consequently, inferior beings are not treated as decision-makers, but as variables within the decision process.
-Every illithid aboard should maintain an illithid identity. Not every illithid needs to object whenever somebody applies a human label to them.
+Every illithid aboard should maintain an illithid identity, but they don't need to object whenever somebody applies a human label to them.
 
 [[CI_00]] : Exploits human resemblance to gain trust, but when labelled human, it corrects it and with controlled certainty rather than wounded indignation.
 
